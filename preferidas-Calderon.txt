@@ -1,0 +1,4166 @@
+1                   habéis              24/1                    21,824
+        
+2                   papel               18/0                    21,465
+        
+3                   hoy                 39/6                    20,773
+        
+4                   duque               17/0                    20,273
+        
+5                   luz                 15/0                    17,888
+        
+6                   os                  70/22                   17,482
+        
+7                   retrato             14/0                    16,695
+        
+8                   saber               38/8                    15,615
+        
+9                   disgusto            13/0                    15,503
+        
+10                  eso                 48/13                   14,850
+        
+11                  carta               12/0                    14,310
+        
+12                  ha                  118/53                  13,847
+        
+13                  huésped             11/0                    13,118
+        
+14                  –                   24/4                    12,057
+        
+15                  sabido              10/0                    11,925
+        
+16                  sol                 10/0                    11,925
+        
+17                  digo                20/3                    10,841
+        
+18                  haré                9/0                     10,733
+        
+19                  aquí                70/29                   10,161
+        
+20                  sido                24/5                     9,963
+        
+21                  efecto              13/1                     9,899
+        
+22                  tenéis              8/0                      9,540
+        
+23                  hasta               27/7                     8,830
+        
+24                  quién               65/28                    8,549
+        
+25                  ausente             7/0                      8,348
+        
+26                  mirar               7/0                      8,348
+        
+27                  vos                 50/20                    7,886
+        
+28                  nadie               11/1                     7,835
+        
+29                  dama                41/15                    7,822
+        
+30                  jardín              19/4                     7,808
+        
+31                  luego               25/7                     7,399
+        
+32                  alacena             6/0                      7,155
+        
+33                  lengua              6/0                      7,155
+        
+34                  ninguno             6/0                      7,155
+        
+35                  sabéis              6/0                      7,155
+        
+36                  seña                6/0                      7,155
+        
+37                  y                   422/281                  6,998
+        
+38                  mañana              13/2                     6,924
+        
+39                  verdad              20/5                     6,835
+        
+40                  importa             22/6                     6,744
+        
+41                  vez                 22/6                     6,744
+        
+42                  él                  61/28                    6,721
+        
+43                  no                  372/247                  6,335
+        
+44                  vuestra             21/6                     6,044
+        
+45                  ausencia            12/2                     6,029
+        
+46                  alteza              5/0                      5,963
+        
+47                  amigo               5/0                      5,963
+        
+48                  anda                5/0                      5,963
+        
+49                  calla               5/0                      5,963
+        
+50                  cartas              5/0                      5,963
+        
+51                  cierta              5/0                      5,963
+        
+52                  debe                5/0                      5,963
+        
+53                  entienda            5/0                      5,963
+        
+54                  esfera              5/0                      5,963
+        
+55                  estilo              5/0                      5,963
+        
+56                  hablaros            5/0                      5,963
+        
+57                  id                  5/0                      5,963
+        
+58                  ido                 5/0                      5,963
+        
+59                  pude                5/0                      5,963
+        
+60                  sabrás              5/0                      5,963
+        
+61                  vais                5/0                      5,963
+        
+62                  suceso              9/1                      5,832
+        
+63                  tenido              9/1                      5,832
+        
+64                  menos               16/4                     5,468
+        
+65                  suerte              16/4                     5,468
+        
+66                  decir               18/5                     5,385
+        
+67                  he                  59/29                    5,225
+        
+68                  haya                11/2                     5,157
+        
+69                  querido             11/2                     5,157
+        
+70                  celos               29/11                    5,139
+        
+71                  bien                54/26                    5,126
+        
+72                  ahora               34/14                    5,009
+        
+73                  soy                 39/17                    4,971
+        
+74                  sí                  32/13                    4,868
+        
+75                  advierto            4/0                      4,770
+        
+76                  cifra               4/0                      4,770
+        
+77                  cuántas             4/0                      4,770
+        
+78                  digas               4/0                      4,770
+        
+79                  divertido           4/0                      4,770
+        
+80                  encubierta          4/0                      4,770
+        
+81                  enojo               4/0                      4,770
+        
+82                  entrado             4/0                      4,770
+        
+83                  escrito             4/0                      4,770
+        
+84                  firme               4/0                      4,770
+        
+85                  hable               4/0                      4,770
+        
+86                  juzga               4/0                      4,770
+        
+87                  llevar              4/0                      4,770
+        
+88                  mantua              4/0                      4,770
+        
+89                  miedo               4/0                      4,770
+        
+90                  mujeres             4/0                      4,770
+        
+91                  obedecerte          4/0                      4,770
+        
+92                  parma               4/0                      4,770
+        
+93                  pie                 4/0                      4,770
+        
+94                  rayos               4/0                      4,770
+        
+95                  salido              4/0                      4,770
+        
+96                  servicio            4/0                      4,770
+        
+97                  sospechas           4/0                      4,770
+        
+98                  tomad               4/0                      4,770
+        
+99                  venirme             4/0                      4,770
+        
+100                 áspid               4/0                      4,770
+        
+101                 …que                4/0                      4,770
+        
+102                 día                 15/4                     4,734
+        
+103                 ese                 15/4                     4,734
+        
+104                 una                 83/46                    4,550
+        
+105                 así                 49/24                    4,392
+        
+106                 noche               24/9                     4,356
+        
+107                 deseo               10/2                     4,313
+        
+108                 había               10/2                     4,313
+        
+109                 ingenio             10/2                     4,313
+        
+110                 primera             10/2                     4,313
+        
+111                 señora              22/8                     4,248
+        
+112                 veces               12/3                     4,101
+        
+113                 aviso               7/1                      3,920
+        
+114                 diga                7/1                      3,920
+        
+115                 palabra             7/1                      3,920
+        
+116                 viento              7/1                      3,920
+        
+117                 por                 139/87                   3,807
+        
+118                 aborrecido          3/0                      3,578
+        
+119                 abril               3/0                      3,578
+        
+120                 acciones            3/0                      3,578
+        
+121                 advertid            3/0                      3,578
+        
+122                 advertir            3/0                      3,578
+        
+123                 agradeced           3/0                      3,578
+        
+124                 alegre              3/0                      3,578
+        
+125                 amarte              3/0                      3,578
+        
+126                 amó                 3/0                      3,578
+        
+127                 aposento            3/0                      3,578
+        
+128                 aurora              3/0                      3,578
+        
+129                 bellas              3/0                      3,578
+        
+130                 breves              3/0                      3,578
+        
+131                 buscaros            3/0                      3,578
+        
+132                 busqué              3/0                      3,578
+        
+133                 cierra              3/0                      3,578
+        
+134                 conocer             3/0                      3,578
+        
+135                 contiene            3/0                      3,578
+        
+136                 creyera             3/0                      3,578
+        
+137                 creído              3/0                      3,578
+        
+138                 cualquier           3/0                      3,578
+        
+139                 cuán                3/0                      3,578
+        
+140                 dando               3/0                      3,578
+        
+141                 declarado           3/0                      3,578
+        
+142                 descortés           3/0                      3,578
+        
+143                 desvarío            3/0                      3,578
+        
+144                 dichoso             3/0                      3,578
+        
+145                 dijera              3/0                      3,578
+        
+146                 diligencias         3/0                      3,578
+        
+147                 efetos              3/0                      3,578
+        
+148                 envió               3/0                      3,578
+        
+149                 escribe             3/0                      3,578
+        
+150                 espaldas            3/0                      3,578
+        
+151                 estimación          3/0                      3,578
+        
+152                 extremo             3/0                      3,578
+        
+153                 hablarme            3/0                      3,578
+        
+154                 harás               3/0                      3,578
+        
+155                 hayas               3/0                      3,578
+        
+156                 hermanos            3/0                      3,578
+        
+157                 hidalgo             3/0                      3,578
+        
+158                 ignoro              3/0                      3,578
+        
+159                 imaginación         3/0                      3,578
+        
+160                 juego               3/0                      3,578
+        
+161                 llegad              3/0                      3,578
+        
+162                 loca                3/0                      3,578
+        
+163                 luces               3/0                      3,578
+        
+164                 mala                3/0                      3,578
+        
+165                 mudo                3/0                      3,578
+        
+166                 necio               3/0                      3,578
+        
+167                 ningún              3/0                      3,578
+        
+168                 oí                  3/0                      3,578
+        
+169                 papeles             3/0                      3,578
+        
+170                 partes              3/0                      3,578
+        
+171                 pedir               3/0                      3,578
+        
+172                 pensó               3/0                      3,578
+        
+173                 prevenido           3/0                      3,578
+        
+174                 prevenir            3/0                      3,578
+        
+175                 propósito           3/0                      3,578
+        
+176                 recogida            3/0                      3,578
+        
+177                 rejas               3/0                      3,578
+        
+178                 sale                3/0                      3,578
+        
+179                 satisfaciones       3/0                      3,578
+        
+180                 sepáis              3/0                      3,578
+        
+181                 siga                3/0                      3,578
+        
+182                 soberbia            3/0                      3,578
+        
+183                 sombras             3/0                      3,578
+        
+184                 temeroso            3/0                      3,578
+        
+185                 tres                3/0                      3,578
+        
+186                 tristezas           3/0                      3,578
+        
+187                 umbrales            3/0                      3,578
+        
+188                 vengan              3/0                      3,578
+        
+189                 venía               3/0                      3,578
+        
+190                 veras               3/0                      3,578
+        
+191                 ánimo               3/0                      3,578
+        
+192                 …y                  3/0                      3,578
+        
+193                 pensar              9/2                      3,503
+        
+194                 sentimiento         9/2                      3,503
+        
+195                 visto               9/2                      3,503
+        
+196                 mujer               24/10                    3,435
+        
+197                 otra                35/17                    3,227
+        
+198                 amado               6/1                      3,014
+        
+199                 esté                6/1                      3,014
+        
+200                 extraño             6/1                      3,014
+        
+201                 horas               6/1                      3,014
+        
+202                 mundo               6/1                      3,014
+        
+203                 perder              6/1                      3,014
+        
+204                 solamente           6/1                      3,014
+        
+205                 sucedido            6/1                      3,014
+        
+206                 venido              6/1                      3,014
+        
+207                 vuelvo              6/1                      3,014
+        
+208                 callar              14/5                     2,799
+        
+209                 esta                55/31                    2,782
+        
+210                 doy                 8/2                      2,734
+        
+211                 estrella            8/2                      2,734
+        
+212                 llegue              8/2                      2,734
+        
+213                 necia               8/2                      2,734
+        
+214                 vea                 8/2                      2,734
+        
+215                 vi                  8/2                      2,734
+        
+216                 haber               10/3                     2,683
+        
+217                 tiene               27/13                    2,563
+        
+218                 cuarto              17/7                     2,504
+        
+219                 aborrece            2/0                      2,385
+        
+220                 abra                2/0                      2,385
+        
+221                 abrasa              2/0                      2,385
+        
+222                 acaban              2/0                      2,385
+        
+223                 acierta             2/0                      2,385
+        
+224                 advertido           2/0                      2,385
+        
+225                 afrenta             2/0                      2,385
+        
+226                 agradecer           2/0                      2,385
+        
+227                 ahí                 2/0                      2,385
+        
+228                 aire                2/0                      2,385
+        
+229                 alabanza            2/0                      2,385
+        
+230                 ameno               2/0                      2,385
+        
+231                 amáis               2/0                      2,385
+        
+232                 andar               2/0                      2,385
+        
+233                 antiguo             2/0                      2,385
+        
+234                 apelar              2/0                      2,385
+        
+235                 apercibe            2/0                      2,385
+        
+236                 arguyo              2/0                      2,385
+        
+237                 atreve              2/0                      2,385
+        
+238                 atropella           2/0                      2,385
+        
+239                 autoridad           2/0                      2,385
+        
+240                 aventura            2/0                      2,385
+        
+241                 averiguar           2/0                      2,385
+        
+242                 azafate             2/0                      2,385
+        
+243                 bajó                2/0                      2,385
+        
+244                 balde               2/0                      2,385
+        
+245                 basilisco           2/0                      2,385
+        
+246                 baste               2/0                      2,385
+        
+247                 buscan              2/0                      2,385
+        
+248                 buscando            2/0                      2,385
+        
+249                 cabal               2/0                      2,385
+        
+250                 cain                2/0                      2,385
+        
+251                 caja                2/0                      2,385
+        
+252                 callad              2/0                      2,385
+        
+253                 cansa               2/0                      2,385
+        
+254                 cauteloso           2/0                      2,385
+        
+255                 cercan              2/0                      2,385
+        
+256                 cercano             2/0                      2,385
+        
+257                 cerrado             2/0                      2,385
+        
+258                 cerrar              2/0                      2,385
+        
+259                 cobarde             2/0                      2,385
+        
+260                 cogido              2/0                      2,385
+        
+261                 compañía            2/0                      2,385
+        
+262                 competencia         2/0                      2,385
+        
+263                 concepto            2/0                      2,385
+        
+264                 conociera           2/0                      2,385
+        
+265                 cortésmente         2/0                      2,385
+        
+266                 cuchilladas         2/0                      2,385
+        
+267                 cuerdo              2/0                      2,385
+        
+268                 cumplido            2/0                      2,385
+        
+269                 cuna                2/0                      2,385
+        
+270                 curiosidad          2/0                      2,385
+        
+271                 cúya                2/0                      2,385
+        
+272                 dale                2/0                      2,385
+        
+273                 debéis              2/0                      2,385
+        
+274                 decente             2/0                      2,385
+        
+275                 deis                2/0                      2,385
+        
+276                 delirio             2/0                      2,385
+        
+277                 desafío             2/0                      2,385
+        
+278                 desaire             2/0                      2,385
+        
+279                 desconfianza        2/0                      2,385
+        
+280                 desconfío           2/0                      2,385
+        
+281                 desea               2/0                      2,385
+        
+282                 desesperado         2/0                      2,385
+        
+283                 despachos           2/0                      2,385
+        
+284                 detén               2/0                      2,385
+        
+285                 deuda               2/0                      2,385
+        
+286                 deudo               2/0                      2,385
+        
+287                 diamante            2/0                      2,385
+        
+288                 dichosa             2/0                      2,385
+        
+289                 digáis              2/0                      2,385
+        
+290                 disculpado          2/0                      2,385
+        
+291                 discurre            2/0                      2,385
+        
+292                 dudando             2/0                      2,385
+        
+293                 dudar               2/0                      2,385
+        
+294                 dudes               2/0                      2,385
+        
+295                 duquesa             2/0                      2,385
+        
+296                 dé                  2/0                      2,385
+        
+297                 elección            2/0                      2,385
+        
+298                 embaraza            2/0                      2,385
+        
+299                 embozo              2/0                      2,385
+        
+300                 encerrada           2/0                      2,385
+        
+301                 encubrirme          2/0                      2,385
+        
+302                 enfado              2/0                      2,385
+        
+303                 entendí             2/0                      2,385
+        
+304                 entiendes           2/0                      2,385
+        
+305                 entra               2/0                      2,385
+        
+306                 escribanía          2/0                      2,385
+        
+307                 escribir            2/0                      2,385
+        
+308                 escribí             2/0                      2,385
+        
+309                 escrúpulo           2/0                      2,385
+        
+310                 escuchado           2/0                      2,385
+        
+311                 escuche             2/0                      2,385
+        
+312                 escusar             2/0                      2,385
+        
+313                 esperanzas          2/0                      2,385
+        
+314                 esperiencia         2/0                      2,385
+        
+315                 espía               2/0                      2,385
+        
+316                 estancia            2/0                      2,385
+        
+317                 estaréis            2/0                      2,385
+        
+318                 estaría             2/0                      2,385
+        
+319                 estorbos            2/0                      2,385
+        
+320                 experiencia         2/0                      2,385
+        
+321                 falsa               2/0                      2,385
+        
+322                 favorece            2/0                      2,385
+        
+323                 festín              2/0                      2,385
+        
+324                 fingida             2/0                      2,385
+        
+325                 fingido             2/0                      2,385
+        
+326                 firmaré             2/0                      2,385
+        
+327                 fría                2/0                      2,385
+        
+328                 fuentes             2/0                      2,385
+        
+329                 fueran              2/0                      2,385
+        
+330                 fundamento          2/0                      2,385
+        
+331                 fértil              2/0                      2,385
+        
+332                 ganancia            2/0                      2,385
+        
+333                 generoso            2/0                      2,385
+        
+334                 grandes             2/0                      2,385
+        
+335                 guante              2/0                      2,385
+        
+336                 haberlo             2/0                      2,385
+        
+337                 haberte             2/0                      2,385
+        
+338                 hablarla            2/0                      2,385
+        
+339                 hablaste            2/0                      2,385
+        
+340                 hablé               2/0                      2,385
+        
+341                 habléis             2/0                      2,385
+        
+342                 haced               2/0                      2,385
+        
+343                 hacerme             2/0                      2,385
+        
+344                 hacerte             2/0                      2,385
+        
+345                 hado                2/0                      2,385
+        
+346                 harta               2/0                      2,385
+        
+347                 harto               2/0                      2,385
+        
+348                 hecha               2/0                      2,385
+        
+349                 herida              2/0                      2,385
+        
+350                 hice                2/0                      2,385
+        
+351                 hiciere             2/0                      2,385
+        
+352                 huélgome            2/0                      2,385
+        
+353                 ida                 2/0                      2,385
+        
+354                 iguales             2/0                      2,385
+        
+355                 importante          2/0                      2,385
+        
+356                 importará           2/0                      2,385
+        
+357                 imposibles          2/0                      2,385
+        
+358                 influjos            2/0                      2,385
+        
+359                 informado           2/0                      2,385
+        
+360                 jornada             2/0                      2,385
+        
+361                 juanelo             2/0                      2,385
+        
+362                 juicio              2/0                      2,385
+        
+363                 labio               2/0                      2,385
+        
+364                 leer                2/0                      2,385
+        
+365                 leerla              2/0                      2,385
+        
+366                 leyes               2/0                      2,385
+        
+367                 liberal             2/0                      2,385
+        
+368                 lisonjera           2/0                      2,385
+        
+369                 lleve               2/0                      2,385
+        
+370                 llévale             2/0                      2,385
+        
+371                 luna                2/0                      2,385
+        
+372                 manda               2/0                      2,385
+        
+373                 materia             2/0                      2,385
+        
+374                 memoria             2/0                      2,385
+        
+375                 mezclando           2/0                      2,385
+        
+376                 mires               2/0                      2,385
+        
+377                 notables            2/0                      2,385
+        
+378                 nubes               2/0                      2,385
+        
+379                 obediente           2/0                      2,385
+        
+380                 obligaciones        2/0                      2,385
+        
+381                 obligada            2/0                      2,385
+        
+382                 obligado            2/0                      2,385
+        
+383                 obligo              2/0                      2,385
+        
+384                 ocasiones           2/0                      2,385
+        
+385                 ofrece              2/0                      2,385
+        
+386                 oigo                2/0                      2,385
+        
+387                 olvidarte           2/0                      2,385
+        
+388                 parado              2/0                      2,385
+        
+389                 pardas              2/0                      2,385
+        
+390                 parezcan            2/0                      2,385
+        
+391                 parezco             2/0                      2,385
+        
+392                 pañuelo             2/0                      2,385
+        
+393                 pensé               2/0                      2,385
+        
+394                 plegue              2/0                      2,385
+        
+395                 pliego              2/0                      2,385
+        
+396                 plática             2/0                      2,385
+        
+397                 poderes             2/0                      2,385
+        
+398                 posada              2/0                      2,385
+        
+399                 presumir            2/0                      2,385
+        
+400                 pretenda            2/0                      2,385
+        
+401                 previene            2/0                      2,385
+        
+402                 principios          2/0                      2,385
+        
+403                 puente              2/0                      2,385
+        
+404                 público             2/0                      2,385
+        
+405                 quedad              2/0                      2,385
+        
+406                 quedarme            2/0                      2,385
+        
+407                 quejáis             2/0                      2,385
+        
+408                 quereros            2/0                      2,385
+        
+409                 quitado             2/0                      2,385
+        
+410                 recebido            2/0                      2,385
+        
+411                 recogerme           2/0                      2,385
+        
+412                 reconociendo        2/0                      2,385
+        
+413                 regalo              2/0                      2,385
+        
+414                 repetir             2/0                      2,385
+        
+415                 retrete             2/0                      2,385
+        
+416                 retírate            2/0                      2,385
+        
+417                 riguroso            2/0                      2,385
+        
+418                 risa                2/0                      2,385
+        
+419                 ropa                2/0                      2,385
+        
+420                 saldré              2/0                      2,385
+        
+421                 salid               2/0                      2,385
+        
+422                 satisfacer          2/0                      2,385
+        
+423                 semejante           2/0                      2,385
+        
+424                 sentado             2/0                      2,385
+        
+425                 sentidos            2/0                      2,385
+        
+426                 sepulcro            2/0                      2,385
+        
+427                 sintiera            2/0                      2,385
+        
+428                 sirvo               2/0                      2,385
+        
+429                 sitio               2/0                      2,385
+        
+430                 soledad             2/0                      2,385
+        
+431                 suceda              2/0                      2,385
+        
+432                 suelta              2/0                      2,385
+        
+433                 supiera             2/0                      2,385
+        
+434                 supiesen            2/0                      2,385
+        
+435                 suyos               2/0                      2,385
+        
+436                 temes               2/0                      2,385
+        
+437                 tengan              2/0                      2,385
+        
+438                 teniendo            2/0                      2,385
+        
+439                 tercero             2/0                      2,385
+        
+440                 testigos            2/0                      2,385
+        
+441                 tomada              2/0                      2,385
+        
+442                 toques              2/0                      2,385
+        
+443                 trae                2/0                      2,385
+        
+444                 trais               2/0                      2,385
+        
+445                 trance              2/0                      2,385
+        
+446                 tray                2/0                      2,385
+        
+447                 trazas              2/0                      2,385
+        
+448                 trujo               2/0                      2,385
+        
+449                 tuve                2/0                      2,385
+        
+450                 ufana               2/0                      2,385
+        
+451                 vayas               2/0                      2,385
+        
+452                 veamos              2/0                      2,385
+        
+453                 ved                 2/0                      2,385
+        
+454                 verlo               2/0                      2,385
+        
+455                 viera               2/0                      2,385
+        
+456                 viniendo            2/0                      2,385
+        
+457                 viva                2/0                      2,385
+        
+458                 zafir               2/0                      2,385
+        
+459                 pena                20/9                     2,334
+        
+460                 hacer               23/11                    2,232
+        
+461                 cara                5/1                      2,157
+        
+462                 confianza           5/1                      2,157
+        
+463                 contra              5/1                      2,157
+        
+464                 decirme             5/1                      2,157
+        
+465                 entendido           5/1                      2,157
+        
+466                 extraña             5/1                      2,157
+        
+467                 habiendo            5/1                      2,157
+        
+468                 mirad               5/1                      2,157
+        
+469                 obliga              5/1                      2,157
+        
+470                 respeto             5/1                      2,157
+        
+471                 respuesta           5/1                      2,157
+        
+472                 sombra              5/1                      2,157
+        
+473                 vuestros            5/1                      2,157
+        
+474                 siendo              11/4                     2,124
+        
+475                 ven                 11/4                     2,124
+        
+476                 quien               68/42                    2,040
+        
+477                 cuál                9/3                      2,039
+        
+478                 licencia            9/3                      2,039
+        
+479                 claro               7/2                      2,015
+        
+480                 delito              7/2                      2,015
+        
+481                 dime                7/2                      2,015
+        
+482                 triste              7/2                      2,015
+        
+483                 ya                  90/58                    1,980
+        
+484                 ver                 30/16                    1,949
+        
+485                 nada                14/6                     1,866
+        
+486                 aquesta             12/5                     1,718
+        
+487                 dónde               12/5                     1,718
+        
+488                 han                 12/5                     1,718
+        
+489                 puesto              12/5                     1,718
+        
+490                 muy                 20/10                    1,668
+        
+491                 llega               10/4                     1,577
+        
+492                 estoy               21/11                    1,469
+        
+493                 todo                21/11                    1,469
+        
+494                 contigo             8/3                      1,452
+        
+495                 dijo                8/3                      1,452
+        
+496                 grande              8/3                      1,452
+        
+497                 quieres             8/3                      1,452
+        
+498                 avisar              4/1                      1,367
+        
+499                 consigo             4/1                      1,367
+        
+500                 desvelos            4/1                      1,367
+        
+501                 escondida           4/1                      1,367
+        
+502                 estáis              4/1                      1,367
+        
+503                 flores              4/1                      1,367
+        
+504                 fui                 4/1                      1,367
+        
+505                 guarde              4/1                      1,367
+        
+506                 hará                4/1                      1,367
+        
+507                 muestra             4/1                      1,367
+        
+508                 notable             4/1                      1,367
+        
+509                 palacio             4/1                      1,367
+        
+510                 paso                4/1                      1,367
+        
+511                 prevenida           4/1                      1,367
+        
+512                 principal           4/1                      1,367
+        
+513                 quise               4/1                      1,367
+        
+514                 razones             4/1                      1,367
+        
+515                 señas               4/1                      1,367
+        
+516                 solas               4/1                      1,367
+        
+517                 tales               4/1                      1,367
+        
+518                 tuya                4/1                      1,367
+        
+519                 tuyo                4/1                      1,367
+        
+520                 vengo               4/1                      1,367
+        
+521                 veré                4/1                      1,367
+        
+522                 viniera             4/1                      1,367
+        
+523                 advierte            6/2                      1,360
+        
+524                 agravio             6/2                      1,360
+        
+525                 aguarda             6/2                      1,360
+        
+526                 ama                 6/2                      1,360
+        
+527                 creo                6/2                      1,360
+        
+528                 mil                 6/2                      1,360
+        
+529                 querer              6/2                      1,360
+        
+530                 ni                  35/21                    1,262
+        
+531                 aquel               11/5                     1,247
+        
+532                 cosa                11/5                     1,247
+        
+533                 ocasión             11/5                     1,247
+        
+534                 poco                11/5                     1,247
+        
+535                 abierto             1/0                      1,193
+        
+536                 aborrecerlas        1/0                      1,193
+        
+537                 aborreceréis        1/0                      1,193
+        
+538                 aborrecida          1/0                      1,193
+        
+539                 aborrezco           1/0                      1,193
+        
+540                 abrasarse           1/0                      1,193
+        
+541                 abrirse             1/0                      1,193
+        
+542                 acabadas            1/0                      1,193
+        
+543                 acabar              1/0                      1,193
+        
+544                 acaben              1/0                      1,193
+        
+545                 acechando           1/0                      1,193
+        
+546                 acentos             1/0                      1,193
+        
+547                 acertar             1/0                      1,193
+        
+548                 aciertan            1/0                      1,193
+        
+549                 aconsejaros         1/0                      1,193
+        
+550                 acordara            1/0                      1,193
+        
+551                 acordarme           1/0                      1,193
+        
+552                 acorta              1/0                      1,193
+        
+553                 acredita            1/0                      1,193
+        
+554                 acude               1/0                      1,193
+        
+555                 acudáis             1/0                      1,193
+        
+556                 acuerdas            1/0                      1,193
+        
+557                 acusen              1/0                      1,193
+        
+558                 admiraciones        1/0                      1,193
+        
+559                 admirado            1/0                      1,193
+        
+560                 admirar             1/0                      1,193
+        
+561                 admires             1/0                      1,193
+        
+562                 admita              1/0                      1,193
+        
+563                 admitiros           1/0                      1,193
+        
+564                 admitirse           1/0                      1,193
+        
+565                 admito              1/0                      1,193
+        
+566                 adorando            1/0                      1,193
+        
+567                 adorara             1/0                      1,193
+        
+568                 adornos             1/0                      1,193
+        
+569                 advertencia         1/0                      1,193
+        
+570                 advierta            1/0                      1,193
+        
+571                 adviertes           1/0                      1,193
+        
+572                 advirtió            1/0                      1,193
+        
+573                 afligida            1/0                      1,193
+        
+574                 afrente             1/0                      1,193
+        
+575                 afuera              1/0                      1,193
+        
+576                 agrade              1/0                      1,193
+        
+577                 agradecerte         1/0                      1,193
+        
+578                 agradecido          1/0                      1,193
+        
+579                 agradecéis          1/0                      1,193
+        
+580                 agravias            1/0                      1,193
+        
+581                 agua                1/0                      1,193
+        
+582                 aguardo             1/0                      1,193
+        
+583                 agujero             1/0                      1,193
+        
+584                 ahorrareisme        1/0                      1,193
+        
+585                 alabes              1/0                      1,193
+        
+586                 alabáis             1/0                      1,193
+        
+587                 albergue            1/0                      1,193
+        
+588                 alborotarnos        1/0                      1,193
+        
+589                 alcanza             1/0                      1,193
+        
+590                 alcanzar            1/0                      1,193
+        
+591                 alegas              1/0                      1,193
+        
+592                 alimentos           1/0                      1,193
+        
+593                 alivien             1/0                      1,193
+        
+594                 alpe                1/0                      1,193
+        
+595                 altera              1/0                      1,193
+        
+596                 altero              1/0                      1,193
+        
+597                 altiveces           1/0                      1,193
+        
+598                 alumbra             1/0                      1,193
+        
+599                 alumbro             1/0                      1,193
+        
+600                 alzador             1/0                      1,193
+        
+601                 amanecer            1/0                      1,193
+        
+602                 amaneciendo         1/0                      1,193
+        
+603                 amanezca–           1/0                      1,193
+        
+604                 amara               1/0                      1,193
+        
+605                 amena               1/0                      1,193
+        
+606                 amenazado           1/0                      1,193
+        
+607                 amistad             1/0                      1,193
+        
+608                 amorosos            1/0                      1,193
+        
+609                 amortajarme         1/0                      1,193
+        
+610                 amparad             1/0                      1,193
+        
+611                 amparada            1/0                      1,193
+        
+612                 ampare              1/0                      1,193
+        
+613                 ampares             1/0                      1,193
+        
+614                 anales              1/0                      1,193
+        
+615                 andado              1/0                      1,193
+        
+616                 andan               1/0                      1,193
+        
+617                 andantes            1/0                      1,193
+        
+618                 ande                1/0                      1,193
+        
+619                 anduvo              1/0                      1,193
+        
+620                 andáis              1/0                      1,193
+        
+621                 anegó               1/0                      1,193
+        
+622                 animo               1/0                      1,193
+        
+623                 anochecer           1/0                      1,193
+        
+624                 anteviendo          1/0                      1,193
+        
+625                 anticipada          1/0                      1,193
+        
+626                 anticipadas         1/0                      1,193
+        
+627                 antiguos            1/0                      1,193
+        
+628                 apadrina            1/0                      1,193
+        
+629                 apartados           1/0                      1,193
+        
+630                 apartéis            1/0                      1,193
+        
+631                 apercebido          1/0                      1,193
+        
+632                 aposentase          1/0                      1,193
+        
+633                 aprende             1/0                      1,193
+        
+634                 aprieto             1/0                      1,193
+        
+635                 apurar              1/0                      1,193
+        
+636                 apurarla            1/0                      1,193
+        
+637                 aquellos            1/0                      1,193
+        
+638                 aquestas            1/0                      1,193
+        
+639                 ardimiento          1/0                      1,193
+        
+640                 arguyes             1/0                      1,193
+        
+641                 arpones             1/0                      1,193
+        
+642                 arrancarle          1/0                      1,193
+        
+643                 arrepentido         1/0                      1,193
+        
+644                 arrojándome         1/0                      1,193
+        
+645                 asegurado           1/0                      1,193
+        
+646                 asegurarme          1/0                      1,193
+        
+647                 asegurarte          1/0                      1,193
+        
+648                 atado               1/0                      1,193
+        
+649                 atajarlo            1/0                      1,193
+        
+650                 atienden            1/0                      1,193
+        
+651                 atrevas             1/0                      1,193
+        
+652                 atreverme           1/0                      1,193
+        
+653                 atreverse           1/0                      1,193
+        
+654                 atrevida            1/0                      1,193
+        
+655                 atrevimientos       1/0                      1,193
+        
+656                 atropelladas        1/0                      1,193
+        
+657                 atán                1/0                      1,193
+        
+658                 aumenta             1/0                      1,193
+        
+659                 ausentarme          1/0                      1,193
+        
+660                 ausentaste          1/0                      1,193
+        
+661                 ausentándose        1/0                      1,193
+        
+662                 ausentó             1/0                      1,193
+        
+663                 avara               1/0                      1,193
+        
+664                 avaro               1/0                      1,193
+        
+665                 avasallar           1/0                      1,193
+        
+666                 aventurarme         1/0                      1,193
+        
+667                 aventuras           1/0                      1,193
+        
+668                 aventuráis          1/0                      1,193
+        
+669                 avisos              1/0                      1,193
+        
+670                 avisándole          1/0                      1,193
+        
+671                 avisárselo          1/0                      1,193
+        
+672                 avisó               1/0                      1,193
+        
+673                 ayuda               1/0                      1,193
+        
+674                 ayudes              1/0                      1,193
+        
+675                 azules              1/0                      1,193
+        
+676                 bajando             1/0                      1,193
+        
+677                 bajar               1/0                      1,193
+        
+678                 bajas               1/0                      1,193
+        
+679                 bajase              1/0                      1,193
+        
+680                 baje                1/0                      1,193
+        
+681                 balcones            1/0                      1,193
+        
+682                 barato              1/0                      1,193
+        
+683                 bastó               1/0                      1,193
+        
+684                 baten               1/0                      1,193
+        
+685                 bebed               1/0                      1,193
+        
+686                 bellos              1/0                      1,193
+        
+687                 bienes              1/0                      1,193
+        
+688                 bigotes             1/0                      1,193
+        
+689                 billete             1/0                      1,193
+        
+690                 bizarro             1/0                      1,193
+        
+691                 blasonáis           1/0                      1,193
+        
+692                 borrártele          1/0                      1,193
+        
+693                 bosquejos           1/0                      1,193
+        
+694                 brazo               1/0                      1,193
+        
+695                 brillar             1/0                      1,193
+        
+696                 bronce              1/0                      1,193
+        
+697                 brujuleando         1/0                      1,193
+        
+698                 buenas              1/0                      1,193
+        
+699                 bufete              1/0                      1,193
+        
+700                 burladas            1/0                      1,193
+        
+701                 burlas              1/0                      1,193
+        
+702                 buscaban            1/0                      1,193
+        
+703                 buscado             1/0                      1,193
+        
+704                 buscarme            1/0                      1,193
+        
+705                 buscarse            1/0                      1,193
+        
+706                 buscarte            1/0                      1,193
+        
+707                 buscaré             1/0                      1,193
+        
+708                 buscándome          1/0                      1,193
+        
+709                 busquéis            1/0                      1,193
+        
+710                 bárbaro             1/0                      1,193
+        
+711                 caballos            1/0                      1,193
+        
+712                 cabo                1/0                      1,193
+        
+713                 cadena              1/0                      1,193
+        
+714                 caigo               1/0                      1,193
+        
+715                 callando            1/0                      1,193
+        
+716                 callarlos           1/0                      1,193
+        
+717                 callé               1/0                      1,193
+        
+718                 calma               1/0                      1,193
+        
+719                 cama                1/0                      1,193
+        
+720                 caminar             1/0                      1,193
+        
+721                 cancel              1/0                      1,193
+        
+722                 candor              1/0                      1,193
+        
+723                 canse               1/0                      1,193
+        
+724                 capaz               1/0                      1,193
+        
+725                 capuchinos          1/0                      1,193
+        
+726                 cas                 1/0                      1,193
+        
+727                 casada              1/0                      1,193
+        
+728                 casado              1/0                      1,193
+        
+729                 case                1/0                      1,193
+        
+730                 casual              1/0                      1,193
+        
+731                 causar              1/0                      1,193
+        
+732                 causa–              1/0                      1,193
+        
+733                 cause               1/0                      1,193
+        
+734                 celebrarse          1/0                      1,193
+        
+735                 centinela           1/0                      1,193
+        
+736                 cera                1/0                      1,193
+        
+737                 cesa                1/0                      1,193
+        
+738                 cesado              1/0                      1,193
+        
+739                 ciegue              1/0                      1,193
+        
+740                 circunstancia       1/0                      1,193
+        
+741                 ciudad              1/0                      1,193
+        
+742                 cobardía            1/0                      1,193
+        
+743                 cobra               1/0                      1,193
+        
+744                 coche               1/0                      1,193
+        
+745                 colación            1/0                      1,193
+        
+746                 color               1/0                      1,193
+        
+747                 colores             1/0                      1,193
+        
+748                 comemos             1/0                      1,193
+        
+749                 competirme          1/0                      1,193
+        
+750                 compone             1/0                      1,193
+        
+751                 compuestas          1/0                      1,193
+        
+752                 conciencia          1/0                      1,193
+        
+753                 concurriendo        1/0                      1,193
+        
+754                 concurrir           1/0                      1,193
+        
+755                 confesar            1/0                      1,193
+        
+756                 confesara           1/0                      1,193
+        
+757                 confiesa            1/0                      1,193
+        
+758                 conforma            1/0                      1,193
+        
+759                 confuso             1/0                      1,193
+        
+760                 conocerlas          1/0                      1,193
+        
+761                 conocerlos          1/0                      1,193
+        
+762                 conocerme           1/0                      1,193
+        
+763                 conocía             1/0                      1,193
+        
+764                 consentir           1/0                      1,193
+        
+765                 conserva            1/0                      1,193
+        
+766                 consiente           1/0                      1,193
+        
+767                 consolada           1/0                      1,193
+        
+768                 consuelen           1/0                      1,193
+        
+769                 contar              1/0                      1,193
+        
+770                 contara             1/0                      1,193
+        
+771                 contentara          1/0                      1,193
+        
+772                 contento            1/0                      1,193
+        
+773                 contienda           1/0                      1,193
+        
+774                 contienen           1/0                      1,193
+        
+775                 contracifra         1/0                      1,193
+        
+776                 contradecir         1/0                      1,193
+        
+777                 contrario”          1/0                      1,193
+        
+778                 convalece           1/0                      1,193
+        
+779                 convenencia         1/0                      1,193
+        
+780                 convidad            1/0                      1,193
+        
+781                 conviene            1/0                      1,193
+        
+782                 convirtió           1/0                      1,193
+        
+783                 copete              1/0                      1,193
+        
+784                 cordura             1/0                      1,193
+        
+785                 corrida             1/0                      1,193
+        
+786                 corta               1/0                      1,193
+        
+787                 costa               1/0                      1,193
+        
+788                 costado             1/0                      1,193
+        
+789                 crea                1/0                      1,193
+        
+790                 crecía              1/0                      1,193
+        
+791                 creeros             1/0                      1,193
+        
+792                 cuadro              1/0                      1,193
+        
+793                 cubierto            1/0                      1,193
+        
+794                 cuentas             1/0                      1,193
+        
+795                 cuente–             1/0                      1,193
+        
+796                 cuerdamente         1/0                      1,193
+        
+797                 cuesta              1/0                      1,193
+        
+798                 cueste              1/0                      1,193
+        
+799                 cuesto              1/0                      1,193
+        
+800                 culpas              1/0                      1,193
+        
+801                 culpes              1/0                      1,193
+        
+802                 cumplirla           1/0                      1,193
+        
+803                 cumplió             1/0                      1,193
+        
+804                 cumplí              1/0                      1,193
+        
+805                 cura                1/0                      1,193
+        
+806                 curiosidades        1/0                      1,193
+        
+807                 cuáles              1/0                      1,193
+        
+808                 cuánta              1/0                      1,193
+        
+809                 cárcel              1/0                      1,193
+        
+810                 cúbrete             1/0                      1,193
+        
+811                 cúyo                1/0                      1,193
+        
+812                 dad                 1/0                      1,193
+        
+813                 dais                1/0                      1,193
+        
+814                 dame                1/0                      1,193
+        
+815                 darela              1/0                      1,193
+        
+816                 daré                1/0                      1,193
+        
+817                 daños               1/0                      1,193
+        
+818                 deben               1/0                      1,193
+        
+819                 debido              1/0                      1,193
+        
+820                 decid               1/0                      1,193
+        
+821                 declara             1/0                      1,193
+        
+822                 declarada           1/0                      1,193
+        
+823                 declaradas          1/0                      1,193
+        
+824                 declarados          1/0                      1,193
+        
+825                 declararme          1/0                      1,193
+        
+826                 declare             1/0                      1,193
+        
+827                 declinando          1/0                      1,193
+        
+828                 decretos            1/0                      1,193
+        
+829                 decíroslo           1/0                      1,193
+        
+830                 decírselo           1/0                      1,193
+        
+831                 defender            1/0                      1,193
+        
+832                 defendida           1/0                      1,193
+        
+833                 defendiese          1/0                      1,193
+        
+834                 defienden           1/0                      1,193
+        
+835                 defiendo            1/0                      1,193
+        
+836                 defuera             1/0                      1,193
+        
+837                 dejallo             1/0                      1,193
+        
+838                 dejarete            1/0                      1,193
+        
+839                 dejarle             1/0                      1,193
+        
+840                 dejaré              1/0                      1,193
+        
+841                 dejaste             1/0                      1,193
+        
+842                 dejáis              1/0                      1,193
+        
+843                 dejándoos           1/0                      1,193
+        
+844                 delitos             1/0                      1,193
+        
+845                 depuesta            1/0                      1,193
+        
+846                 derecho             1/0                      1,193
+        
+847                 desairar            1/0                      1,193
+        
+848                 desaires            1/0                      1,193
+        
+849                 desatado            1/0                      1,193
+        
+850                 desatenta           1/0                      1,193
+        
+851                 descansar           1/0                      1,193
+        
+852                 desconfiado         1/0                      1,193
+        
+853                 desconozca          1/0                      1,193
+        
+854                 desconsuelos        1/0                      1,193
+        
+855                 descubierta         1/0                      1,193
+        
+856                 descubran           1/0                      1,193
+        
+857                 descubre            1/0                      1,193
+        
+858                 descubrir           1/0                      1,193
+        
+859                 descubrirlo         1/0                      1,193
+        
+860                 desdores            1/0                      1,193
+        
+861                 desempeñarse        1/0                      1,193
+        
+862                 desengañaros        1/0                      1,193
+        
+863                 desenojar           1/0                      1,193
+        
+864                 desenojaros         1/0                      1,193
+        
+865                 designios           1/0                      1,193
+        
+866                 desiguales          1/0                      1,193
+        
+867                 desigualmente       1/0                      1,193
+        
+868                 despechos           1/0                      1,193
+        
+869                 despedidle          1/0                      1,193
+        
+870                 desperdicio         1/0                      1,193
+        
+871                 despojado           1/0                      1,193
+        
+872                 desprecian          1/0                      1,193
+        
+873                 desquitarme         1/0                      1,193
+        
+874                 desvaneces          1/0                      1,193
+        
+875                 desvanezcáis        1/0                      1,193
+        
+876                 desvergüenza        1/0                      1,193
+        
+877                 detenerme           1/0                      1,193
+        
+878                 determinar          1/0                      1,193
+        
+879                 detienes            1/0                      1,193
+        
+880                 diera               1/0                      1,193
+        
+881                 dieras              1/0                      1,193
+        
+882                 diferencias         1/0                      1,193
+        
+883                 dificultades        1/0                      1,193
+        
+884                 digan               1/0                      1,193
+        
+885                 dijere              1/0                      1,193
+        
+886                 dijo-               1/0                      1,193
+        
+887                 dijérate            1/0                      1,193
+        
+888                 dilatado            1/0                      1,193
+        
+889                 diligente           1/0                      1,193
+        
+890                 dilo                1/0                      1,193
+        
+891                 dirás               1/0                      1,193
+        
+892                 discreto            1/0                      1,193
+        
+893                 disculpas           1/0                      1,193
+        
+894                 disculpáis          1/0                      1,193
+        
+895                 disculpó            1/0                      1,193
+        
+896                 discurra            1/0                      1,193
+        
+897                 discursos           1/0                      1,193
+        
+898                 disfrazada          1/0                      1,193
+        
+899                 disfrazado          1/0                      1,193
+        
+900                 disgustada          1/0                      1,193
+        
+901                 disgustado          1/0                      1,193
+        
+902                 disgustarme         1/0                      1,193
+        
+903                 disgustos           1/0                      1,193
+        
+904                 disimular           1/0                      1,193
+        
+905                 disimularla         1/0                      1,193
+        
+906                 disimularé          1/0                      1,193
+        
+907                 disimulas           1/0                      1,193
+        
+908                 disparates          1/0                      1,193
+        
+909                 dispondrá           1/0                      1,193
+        
+910                 disponerla          1/0                      1,193
+        
+911                 dispongamos         1/0                      1,193
+        
+912                 distancias          1/0                      1,193
+        
+913                 distante            1/0                      1,193
+        
+914                 diversos            1/0                      1,193
+        
+915                 divertimiento       1/0                      1,193
+        
+916                 divertirla          1/0                      1,193
+        
+917                 dividido            1/0                      1,193
+        
+918                 divierto            1/0                      1,193
+        
+919                 divisa              1/0                      1,193
+        
+920                 doble               1/0                      1,193
+        
+921                 doce                1/0                      1,193
+        
+922                 docientas           1/0                      1,193
+        
+923                 dondequiera         1/0                      1,193
+        
+924                 dora                1/0                      1,193
+        
+925                 dosel               1/0                      1,193
+        
+926                 dude                1/0                      1,193
+        
+927                 dudéis              1/0                      1,193
+        
+928                 duende              1/0                      1,193
+        
+929                 dulce               1/0                      1,193
+        
+930                 durmiera            1/0                      1,193
+        
+931                 duélete             1/0                      1,193
+        
+932                 dádiva              1/0                      1,193
+        
+933                 dándome             1/0                      1,193
+        
+934                 débil               1/0                      1,193
+        
+935                 déjanos             1/0                      1,193
+        
+936                 echa                1/0                      1,193
+        
+937                 echado              1/0                      1,193
+        
+938                 echando             1/0                      1,193
+        
+939                 echara              1/0                      1,193
+        
+940                 echas               1/0                      1,193
+        
+941                 eche                1/0                      1,193
+        
+942                 echábamos           1/0                      1,193
+        
+943                 efectos             1/0                      1,193
+        
+944                 ejecutan            1/0                      1,193
+        
+945                 ejecutiva           1/0                      1,193
+        
+946                 ejerce              1/0                      1,193
+        
+947                 elegir              1/0                      1,193
+        
+948                 embarazarlo         1/0                      1,193
+        
+949                 embozada            1/0                      1,193
+        
+950                 embozado            1/0                      1,193
+        
+951                 empezado            1/0                      1,193
+        
+952                 empeñarle           1/0                      1,193
+        
+953                 empeñarme           1/0                      1,193
+        
+954                 empeñó              1/0                      1,193
+        
+955                 empieces            1/0                      1,193
+        
+956                 empleos             1/0                      1,193
+        
+957                 enamorar            1/0                      1,193
+        
+958                 enamore             1/0                      1,193
+        
+959                 encantado           1/0                      1,193
+        
+960                 encareces           1/0                      1,193
+        
+961                 encarecimiento      1/0                      1,193
+        
+962                 encarga             1/0                      1,193
+        
+963                 encargan            1/0                      1,193
+        
+964                 encargarla          1/0                      1,193
+        
+965                 encubrir            1/0                      1,193
+        
+966                 encuentres          1/0                      1,193
+        
+967                 engañar             1/0                      1,193
+        
+968                 engañarle           1/0                      1,193
+        
+969                 engañarme           1/0                      1,193
+        
+970                 engañase            1/0                      1,193
+        
+971                 engañosamente       1/0                      1,193
+        
+972                 engendran           1/0                      1,193
+        
+973                 enmendarlo          1/0                      1,193
+        
+974                 enmudece            1/0                      1,193
+        
+975                 enojado             1/0                      1,193
+        
+976                 enríquez            1/0                      1,193
+        
+977                 enseñe              1/0                      1,193
+        
+978                 entera              1/0                      1,193
+        
+979                 entero              1/0                      1,193
+        
+980                 entiende            1/0                      1,193
+        
+981                 entiéndelo          1/0                      1,193
+        
+982                 entran              1/0                      1,193
+        
+983                 entrase             1/0                      1,193
+        
+984                 entremos            1/0                      1,193
+        
+985                 entretenida         1/0                      1,193
+        
+986                 entretienen         1/0                      1,193
+        
+987                 entro               1/0                      1,193
+        
+988                 entréis             1/0                      1,193
+        
+989                 enviar              1/0                      1,193
+        
+990                 enviarla            1/0                      1,193
+        
+991                 enviaré             1/0                      1,193
+        
+992                 enviudé             1/0                      1,193
+        
+993                 envía               1/0                      1,193
+        
+994                 envío               1/0                      1,193
+        
+995                 eras                1/0                      1,193
+        
+996                 errarlo             1/0                      1,193
+        
+997                 escasa              1/0                      1,193
+        
+998                 esclavitud          1/0                      1,193
+        
+999                 esclavo             1/0                      1,193
+        
+1000                esconde             1/0                      1,193
+        
+1001                esconderme          1/0                      1,193
+        
+1002                escondernos         1/0                      1,193
+        
+1003                escondo             1/0                      1,193
+        
+1004                escribiendo         1/0                      1,193
+        
+1005                escribirme          1/0                      1,193
+        
+1006                escribiste          1/0                      1,193
+        
+1007                escrita             1/0                      1,193
+        
+1008                escritos            1/0                      1,193
+        
+1009                escríbele           1/0                      1,193
+        
+1010                escrúpulos          1/0                      1,193
+        
+1011                escucharlo          1/0                      1,193
+        
+1012                escucharme          1/0                      1,193
+        
+1013                escucharos          1/0                      1,193
+        
+1014                escuches            1/0                      1,193
+        
+1015                escuché             1/0                      1,193
+        
+1016                escuchó             1/0                      1,193
+        
+1017                escudos             1/0                      1,193
+        
+1018                escusa              1/0                      1,193
+        
+1019                escusare            1/0                      1,193
+        
+1020                escusaros           1/0                      1,193
+        
+1021                eslabona            1/0                      1,193
+        
+1022                esotro              1/0                      1,193
+        
+1023                espantado           1/0                      1,193
+        
+1024                espantes            1/0                      1,193
+        
+1025                esparce             1/0                      1,193
+        
+1026                esperad             1/0                      1,193
+        
+1027                esperan             1/0                      1,193
+        
+1028                esperarme           1/0                      1,193
+        
+1029                espere              1/0                      1,193
+        
+1030                esperiencias        1/0                      1,193
+        
+1031                esperé              1/0                      1,193
+        
+1032                espiado             1/0                      1,193
+        
+1033                espiro              1/0                      1,193
+        
+1034                esplica             1/0                      1,193
+        
+1035                esplicada           1/0                      1,193
+        
+1036                esplicalla          1/0                      1,193
+        
+1037                esplicarle          1/0                      1,193
+        
+1038                esplicarse          1/0                      1,193
+        
+1039                espías              1/0                      1,193
+        
+1040                esquiva             1/0                      1,193
+        
+1041                esquivez            1/0                      1,193
+        
+1042                estación            1/0                      1,193
+        
+1043                estemos             1/0                      1,193
+        
+1044                estenso             1/0                      1,193
+        
+1045                estimado            1/0                      1,193
+        
+1046                estimara            1/0                      1,193
+        
+1047                estimáis            1/0                      1,193
+        
+1048                estorbad            1/0                      1,193
+        
+1049                estorbar            1/0                      1,193
+        
+1050                estorbarle          1/0                      1,193
+        
+1051                estorbaros          1/0                      1,193
+        
+1052                estorbé             1/0                      1,193
+        
+1053                estotras            1/0                      1,193
+        
+1054                estrañes            1/0                      1,193
+        
+1055                estribo             1/0                      1,193
+        
+1056                estruendos          1/0                      1,193
+        
+1057                estuve              1/0                      1,193
+        
+1058                estuviere           1/0                      1,193
+        
+1059                estuviste           1/0                      1,193
+        
+1060                estuvo              1/0                      1,193
+        
+1061                eternamente         1/0                      1,193
+        
+1062                examen              1/0                      1,193
+        
+1063                excelencia          1/0                      1,193
+        
+1064                extrañas            1/0                      1,193
+        
+1065                falten              1/0                      1,193
+        
+1066                fantasía            1/0                      1,193
+        
+1067                farsa               1/0                      1,193
+        
+1068                favorecerme         1/0                      1,193
+        
+1069                fiad                1/0                      1,193
+        
+1070                fiarme              1/0                      1,193
+        
+1071                finjo               1/0                      1,193
+        
+1072                finísimo            1/0                      1,193
+        
+1073                firmada             1/0                      1,193
+        
+1074                flor                1/0                      1,193
+        
+1075                florencia           1/0                      1,193
+        
+1076                formadas            1/0                      1,193
+        
+1077                forzada             1/0                      1,193
+        
+1078                frailes             1/0                      1,193
+        
+1079                fuerais             1/0                      1,193
+        
+1080                fuereis             1/0                      1,193
+        
+1081                fueren              1/0                      1,193
+        
+1082                fueros              1/0                      1,193
+        
+1083                fueseis             1/0                      1,193
+        
+1084                fuesen              1/0                      1,193
+        
+1085                fullero             1/0                      1,193
+        
+1086                fundada             1/0                      1,193
+        
+1087                funesta             1/0                      1,193
+        
+1088                funestos            1/0                      1,193
+        
+1089                fáciles             1/0                      1,193
+        
+1090                fálteme             1/0                      1,193
+        
+1091                galante             1/0                      1,193
+        
+1092                ganaros             1/0                      1,193
+        
+1093                gasta               1/0                      1,193
+        
+1094                gastara             1/0                      1,193
+        
+1095                gloria              1/0                      1,193
+        
+1096                golpecillo          1/0                      1,193
+        
+1097                gozando             1/0                      1,193
+        
+1098                gozáis              1/0                      1,193
+        
+1099                gracias             1/0                      1,193
+        
+1100                gracioso            1/0                      1,193
+        
+1101                grandeza            1/0                      1,193
+        
+1102                granjear            1/0                      1,193
+        
+1103                graves              1/0                      1,193
+        
+1104                guardado            1/0                      1,193
+        
+1105                guardaron           1/0                      1,193
+        
+1106                guardaría           1/0                      1,193
+        
+1107                guardases           1/0                      1,193
+        
+1108                guardé              1/0                      1,193
+        
+1109                guardéis            1/0                      1,193
+        
+1110                guiada              1/0                      1,193
+        
+1111                habeisme            1/0                      1,193
+        
+1112                haberla             1/0                      1,193
+        
+1113                haberle             1/0                      1,193
+        
+1114                haberse             1/0                      1,193
+        
+1115                habiéndose          1/0                      1,193
+        
+1116                hablamos            1/0                      1,193
+        
+1117                hablan              1/0                      1,193
+        
+1118                hablaran            1/0                      1,193
+        
+1119                hablare             1/0                      1,193
+        
+1120                hablarlas           1/0                      1,193
+        
+1121                hables              1/0                      1,193
+        
+1122                habláis             1/0                      1,193
+        
+1123                habré               1/0                      1,193
+        
+1124                habían              1/0                      1,193
+        
+1125                hacen               1/0                      1,193
+        
+1126                hacerla             1/0                      1,193
+        
+1127                hacerlo–            1/0                      1,193
+        
+1128                hacérmelos          1/0                      1,193
+        
+1129                hagan               1/0                      1,193
+        
+1130                hagas               1/0                      1,193
+        
+1131                hallan              1/0                      1,193
+        
+1132                hallará             1/0                      1,193
+        
+1133                hallase             1/0                      1,193
+        
+1134                hallaste            1/0                      1,193
+        
+1135                hallome             1/0                      1,193
+        
+1136                hallote             1/0                      1,193
+        
+1137                haremos             1/0                      1,193
+        
+1138                haría               1/0                      1,193
+        
+1139                haslo               1/0                      1,193
+        
+1140                hayan               1/0                      1,193
+        
+1141                helada              1/0                      1,193
+        
+1142                hicierais           1/0                      1,193
+        
+1143                hiciste             1/0                      1,193
+        
+1144                hiciéraisla         1/0                      1,193
+        
+1145                hija                1/0                      1,193
+        
+1146                hiriese             1/0                      1,193
+        
+1147                holgareme           1/0                      1,193
+        
+1148                honrado             1/0                      1,193
+        
+1149                hube                1/0                      1,193
+        
+1150                hubiese             1/0                      1,193
+        
+1151                huele               1/0                      1,193
+        
+1152                huevo               1/0                      1,193
+        
+1153                humana              1/0                      1,193
+        
+1154                humildad            1/0                      1,193
+        
+1155                humildemente        1/0                      1,193
+        
+1156                hurto               1/0                      1,193
+        
+1157                hágalo              1/0                      1,193
+        
+1158                ignorante           1/0                      1,193
+        
+1159                ignorarlos          1/0                      1,193
+        
+1160                igualado            1/0                      1,193
+        
+1161                igualmente          1/0                      1,193
+        
+1162                igualo              1/0                      1,193
+        
+1163                ilustre             1/0                      1,193
+        
+1164                imagen              1/0                      1,193
+        
+1165                imaginaba           1/0                      1,193
+        
+1166                imaginar            1/0                      1,193
+        
+1167                imaginara           1/0                      1,193
+        
+1168                imitando            1/0                      1,193
+        
+1169                impedirlo           1/0                      1,193
+        
+1170                impertinencia       1/0                      1,193
+        
+1171                impertinencias      1/0                      1,193
+        
+1172                impertinentes       1/0                      1,193
+        
+1173                impidiéndome        1/0                      1,193
+        
+1174                importaría          1/0                      1,193
+        
+1175                importe             1/0                      1,193
+        
+1176                importuno           1/0                      1,193
+        
+1177                imprudente          1/0                      1,193
+        
+1178                impulso             1/0                      1,193
+        
+1179                inadvertencia       1/0                      1,193
+        
+1180                incierta            1/0                      1,193
+        
+1181                inclinó             1/0                      1,193
+        
+1182                inconstante         1/0                      1,193
+        
+1183                inferior            1/0                      1,193
+        
+1184                infiere             1/0                      1,193
+        
+1185                informada           1/0                      1,193
+        
+1186                informaros          1/0                      1,193
+        
+1187                informarte          1/0                      1,193
+        
+1188                ingenios            1/0                      1,193
+        
+1189                inmenso             1/0                      1,193
+        
+1190                inmortal            1/0                      1,193
+        
+1191                instrución          1/0                      1,193
+        
+1192                instrumento         1/0                      1,193
+        
+1193                intenciones         1/0                      1,193
+        
+1194                intentan            1/0                      1,193
+        
+1195                intentara           1/0                      1,193
+        
+1196                intentases          1/0                      1,193
+        
+1197                intente             1/0                      1,193
+        
+1198                interés             1/0                      1,193
+        
+1199                inútiles            1/0                      1,193
+        
+1200                jaspe               1/0                      1,193
+        
+1201                jazmín              1/0                      1,193
+        
+1202                jesús               1/0                      1,193
+        
+1203                jugar               1/0                      1,193
+        
+1204                juntado             1/0                      1,193
+        
+1205                juntando            1/0                      1,193
+        
+1206                juntar              1/0                      1,193
+        
+1207                juntes              1/0                      1,193
+        
+1208                juramento           1/0                      1,193
+        
+1209                juridición          1/0                      1,193
+        
+1210                labios              1/0                      1,193
+        
+1211                ladrón              1/0                      1,193
+        
+1212                leas                1/0                      1,193
+        
+1213                lee                 1/0                      1,193
+        
+1214                leguas              1/0                      1,193
+        
+1215                lenguaje            1/0                      1,193
+        
+1216                lenguas             1/0                      1,193
+        
+1217                leo                 1/0                      1,193
+        
+1218                levantar            1/0                      1,193
+        
+1219                leves               1/0                      1,193
+        
+1220                leíste              1/0                      1,193
+        
+1221                lindamente          1/0                      1,193
+        
+1222                lindo               1/0                      1,193
+        
+1223                lindos              1/0                      1,193
+        
+1224                lisonjero           1/0                      1,193
+        
+1225                liviandad           1/0                      1,193
+        
+1226                livianos            1/0                      1,193
+        
+1227                llamalle            1/0                      1,193
+        
+1228                llamaste            1/0                      1,193
+        
+1229                llave               1/0                      1,193
+        
+1230                llegarás            1/0                      1,193
+        
+1231                llegaré             1/0                      1,193
+        
+1232                lleguen             1/0                      1,193
+        
+1233                llegues             1/0                      1,193
+        
+1234                llegué              1/0                      1,193
+        
+1235                llegáis             1/0                      1,193
+        
+1236                llena               1/0                      1,193
+        
+1237                llevaldos           1/0                      1,193
+        
+1238                llevando            1/0                      1,193
+        
+1239                llevara             1/0                      1,193
+        
+1240                llevarla            1/0                      1,193
+        
+1241                llevé               1/0                      1,193
+        
+1242                llora               1/0                      1,193
+        
+1243                locos               1/0                      1,193
+        
+1244                logren              1/0                      1,193
+        
+1245                lucido              1/0                      1,193
+        
+1246                lugares             1/0                      1,193
+        
+1247                luto                1/0                      1,193
+        
+1248                líneas              1/0                      1,193
+        
+1249                lóbregas            1/0                      1,193
+        
+1250                madama              1/0                      1,193
+        
+1251                maletas             1/0                      1,193
+        
+1252                mancha              1/0                      1,193
+        
+1253                manches             1/0                      1,193
+        
+1254                mandada             1/0                      1,193
+        
+1255                mandéis             1/0                      1,193
+        
+1256                mandó               1/0                      1,193
+        
+1257                mansamente          1/0                      1,193
+        
+1258                marchita            1/0                      1,193
+        
+1259                materias            1/0                      1,193
+        
+1260                mañanas             1/0                      1,193
+        
+1261                media               1/0                      1,193
+        
+1262                medicina            1/0                      1,193
+        
+1263                mejoraron           1/0                      1,193
+        
+1264                mengua              1/0                      1,193
+        
+1265                mensajeros          1/0                      1,193
+        
+1266                merced              1/0                      1,193
+        
+1267                mercedes            1/0                      1,193
+        
+1268                merecen             1/0                      1,193
+        
+1269                merecerlos          1/0                      1,193
+        
+1270                mereciendo          1/0                      1,193
+        
+1271                mesa                1/0                      1,193
+        
+1272                meses               1/0                      1,193
+        
+1273                metal               1/0                      1,193
+        
+1274                mezclasteis         1/0                      1,193
+        
+1275                mientes             1/0                      1,193
+        
+1276                mintió              1/0                      1,193
+        
+1277                mirarme             1/0                      1,193
+        
+1278                miren               1/0                      1,193
+        
+1279                miráis              1/0                      1,193
+        
+1280                miró                1/0                      1,193
+        
+1281                mostrad             1/0                      1,193
+        
+1282                mostrando           1/0                      1,193
+        
+1283                mostrarme           1/0                      1,193
+        
+1284                motejada            1/0                      1,193
+        
+1285                mudado              1/0                      1,193
+        
+1286                mudar               1/0                      1,193
+        
+1287                muerde              1/0                      1,193
+        
+1288                muestre             1/0                      1,193
+        
+1289                muestro             1/0                      1,193
+        
+1290                mujercillas         1/0                      1,193
+        
+1291                mujeril             1/0                      1,193
+        
+1292                munición            1/0                      1,193
+        
+1293                murieron            1/0                      1,193
+        
+1294                mérito              1/0                      1,193
+        
+1295                nace                1/0                      1,193
+        
+1296                nació               1/0                      1,193
+        
+1297                narciso             1/0                      1,193
+        
+1298                nazca               1/0                      1,193
+        
+1299                necesario           1/0                      1,193
+        
+1300                negara              1/0                      1,193
+        
+1301                negarle             1/0                      1,193
+        
+1302                negro               1/0                      1,193
+        
+1303                negárselo           1/0                      1,193
+        
+1304                nobles              1/0                      1,193
+        
+1305                nocturnas           1/0                      1,193
+        
+1306                nombrarla           1/0                      1,193
+        
+1307                notando             1/0                      1,193
+        
+1308                noticias            1/0                      1,193
+        
+1309                obligaros           1/0                      1,193
+        
+1310                obligará            1/0                      1,193
+        
+1311                obligáis            1/0                      1,193
+        
+1312                obscura             1/0                      1,193
+        
+1313                ocasionado          1/0                      1,193
+        
+1314                ocasionase          1/0                      1,193
+        
+1315                ocasione            1/0                      1,193
+        
+1316                ociosidad           1/0                      1,193
+        
+1317                ocultar             1/0                      1,193
+        
+1318                ocultábades         1/0                      1,193
+        
+1319                ocupado             1/0                      1,193
+        
+1320                ocupo               1/0                      1,193
+        
+1321                ofenderme           1/0                      1,193
+        
+1322                ofendida            1/0                      1,193
+        
+1323                ofrecen             1/0                      1,193
+        
+1324                oirás               1/0                      1,193
+        
+1325                olvida              1/0                      1,193
+        
+1326                olvidada            1/0                      1,193
+        
+1327                olvidar             1/0                      1,193
+        
+1328                olvidáis            1/0                      1,193
+        
+1329                oponer              1/0                      1,193
+        
+1330                opuesta             1/0                      1,193
+        
+1331                osa                 1/0                      1,193
+        
+1332                ose                 1/0                      1,193
+        
+1333                ostentarse          1/0                      1,193
+        
+1334                oyen                1/0                      1,193
+        
+1335                oyéndome            1/0                      1,193
+        
+1336                oíd                 1/0                      1,193
+        
+1337                oírlo               1/0                      1,193
+        
+1338                paciencia           1/0                      1,193
+        
+1339                padeciendo          1/0                      1,193
+        
+1340                pague               1/0                      1,193
+        
+1341                pagáis              1/0                      1,193
+        
+1342                pareceres           1/0                      1,193
+        
+1343                parecido            1/0                      1,193
+        
+1344                paredes             1/0                      1,193
+        
+1345                partir              1/0                      1,193
+        
+1346                partirse            1/0                      1,193
+        
+1347                parásemos           1/0                      1,193
+        
+1348                paréceme            1/0                      1,193
+        
+1349                pasaba              1/0                      1,193
+        
+1350                pasaban             1/0                      1,193
+        
+1351                pasadas             1/0                      1,193
+        
+1352                pasamos             1/0                      1,193
+        
+1353                pasaste             1/0                      1,193
+        
+1354                paño                1/0                      1,193
+        
+1355                pedazos             1/0                      1,193
+        
+1356                pedirlo             1/0                      1,193
+        
+1357                pediros             1/0                      1,193
+        
+1358                pediré              1/0                      1,193
+        
+1359                pedistis            1/0                      1,193
+        
+1360                pedís               1/0                      1,193
+        
+1361                peleo               1/0                      1,193
+        
+1362                pendientes          1/0                      1,193
+        
+1363                pene                1/0                      1,193
+        
+1364                pensalda            1/0                      1,193
+        
+1365                pensil              1/0                      1,193
+        
+1366                pequeño             1/0                      1,193
+        
+1367                percibo             1/0                      1,193
+        
+1368                perderla            1/0                      1,193
+        
+1369                perderme            1/0                      1,193
+        
+1370                perderte            1/0                      1,193
+        
+1371                perdidas            1/0                      1,193
+        
+1372                perdiendo           1/0                      1,193
+        
+1373                perdiera            1/0                      1,193
+        
+1374                perdí               1/0                      1,193
+        
+1375                perezoso            1/0                      1,193
+        
+1376                perfume             1/0                      1,193
+        
+1377                perlas              1/0                      1,193
+        
+1378                permitida           1/0                      1,193
+        
+1379                permitáis           1/0                      1,193
+        
+1380                perseguir           1/0                      1,193
+        
+1381                persigue            1/0                      1,193
+        
+1382                persuade            1/0                      1,193
+        
+1383                persuadida          1/0                      1,193
+        
+1384                persuadirte         1/0                      1,193
+        
+1385                pesa                1/0                      1,193
+        
+1386                pesado              1/0                      1,193
+        
+1387                piadoso             1/0                      1,193
+        
+1388                piadosos            1/0                      1,193
+        
+1389                piense              1/0                      1,193
+        
+1390                pierdas             1/0                      1,193
+        
+1391                pincel              1/0                      1,193
+        
+1392                pintada             1/0                      1,193
+        
+1393                pintor              1/0                      1,193
+        
+1394                pisado              1/0                      1,193
+        
+1395                piso                1/0                      1,193
+        
+1396                placer              1/0                      1,193
+        
+1397                pluma               1/0                      1,193
+        
+1398                poca                1/0                      1,193
+        
+1399                podremos            1/0                      1,193
+        
+1400                podáis              1/0                      1,193
+        
+1401                pondré              1/0                      1,193
+        
+1402                pone                1/0                      1,193
+        
+1403                poned               1/0                      1,193
+        
+1404                poneldas            1/0                      1,193
+        
+1405                ponerte             1/0                      1,193
+        
+1406                ponga               1/0                      1,193
+        
+1407                pongas              1/0                      1,193
+        
+1408                pongo               1/0                      1,193
+        
+1409                ponle               1/0                      1,193
+        
+1410                portal              1/0                      1,193
+        
+1411                postrada            1/0                      1,193
+        
+1412                postrarme           1/0                      1,193
+        
+1413                precepto            1/0                      1,193
+        
+1414                precia              1/0                      1,193
+        
+1415                preguntáis          1/0                      1,193
+        
+1416                prended             1/0                      1,193
+        
+1417                presente            1/0                      1,193
+        
+1418                presumen            1/0                      1,193
+        
+1419                presumís            1/0                      1,193
+        
+1420                pretendes           1/0                      1,193
+        
+1421                prevengo            1/0                      1,193
+        
+1422                previne             1/0                      1,193
+        
+1423                previno             1/0                      1,193
+        
+1424                prevínose           1/0                      1,193
+        
+1425                priesa              1/0                      1,193
+        
+1426                primavera           1/0                      1,193
+        
+1427                primeras            1/0                      1,193
+        
+1428                privación           1/0                      1,193
+        
+1429                procura             1/0                      1,193
+        
+1430                procurar            1/0                      1,193
+        
+1431                prodigio            1/0                      1,193
+        
+1432                profanar            1/0                      1,193
+        
+1433                proponed            1/0                      1,193
+        
+1434                prosigue            1/0                      1,193
+        
+1435                pruebo              1/0                      1,193
+        
+1436                publicaremos        1/0                      1,193
+        
+1437                pudiéraos           1/0                      1,193
+        
+1438                puedan              1/0                      1,193
+        
+1439                pueden              1/0                      1,193
+        
+1440                pundonores          1/0                      1,193
+        
+1441                puse                1/0                      1,193
+        
+1442                pájaros             1/0                      1,193
+        
+1443                pálida              1/0                      1,193
+        
+1444                pérdida             1/0                      1,193
+        
+1445                pésames             1/0                      1,193
+        
+1446                públicamente        1/0                      1,193
+        
+1447                quebrar             1/0                      1,193
+        
+1448                quedaraslo          1/0                      1,193
+        
+1449                quedaros            1/0                      1,193
+        
+1450                quedarse            1/0                      1,193
+        
+1451                quedarte            1/0                      1,193
+        
+1452                quedaste            1/0                      1,193
+        
+1453                quedes              1/0                      1,193
+        
+1454                quedándote          1/0                      1,193
+        
+1455                quedéis             1/0                      1,193
+        
+1456                quejarme            1/0                      1,193
+        
+1457                quejes              1/0                      1,193
+        
+1458                quejosos            1/0                      1,193
+        
+1459                quererlo            1/0                      1,193
+        
+1460                quererme            1/0                      1,193
+        
+1461                quererte            1/0                      1,193
+        
+1462                querráis            1/0                      1,193
+        
+1463                querréis            1/0                      1,193
+        
+1464                quietar             1/0                      1,193
+        
+1465                quimeras-           1/0                      1,193
+        
+1466                quiriendo           1/0                      1,193
+        
+1467                quisieres           1/0                      1,193
+        
+1468                quita               1/0                      1,193
+        
+1469                quitada             1/0                      1,193
+        
+1470                quitarme            1/0                      1,193
+        
+1471                quitárselas         1/0                      1,193
+        
+1472                quité               1/0                      1,193
+        
+1473                quédate             1/0                      1,193
+        
+1474                ramo                1/0                      1,193
+        
+1475                raras               1/0                      1,193
+        
+1476                raro                1/0                      1,193
+        
+1477                rayo                1/0                      1,193
+        
+1478                recatarse           1/0                      1,193
+        
+1479                recebisteis         1/0                      1,193
+        
+1480                recibe              1/0                      1,193
+        
+1481                recién              1/0                      1,193
+        
+1482                recogido            1/0                      1,193
+        
+1483                recogiendo          1/0                      1,193
+        
+1484                recogió             1/0                      1,193
+        
+1485                reconocerle         1/0                      1,193
+        
+1486                recorriola          1/0                      1,193
+        
+1487                refiera             1/0                      1,193
+        
+1488                regales             1/0                      1,193
+        
+1489                reina               1/0                      1,193
+        
+1490                remediarla          1/0                      1,193
+        
+1491                remitido            1/0                      1,193
+        
+1492                remos               1/0                      1,193
+        
+1493                rendimiento         1/0                      1,193
+        
+1494                reparado            1/0                      1,193
+        
+1495                repares             1/0                      1,193
+        
+1496                repasar             1/0                      1,193
+        
+1497                replico             1/0                      1,193
+        
+1498                reporta             1/0                      1,193
+        
+1499                reportose           1/0                      1,193
+        
+1500                reprimo             1/0                      1,193
+        
+1501                reputación          1/0                      1,193
+        
+1502                república           1/0                      1,193
+        
+1503                residencia          1/0                      1,193
+        
+1504                resistirlo          1/0                      1,193
+        
+1505                resistió            1/0                      1,193
+        
+1506                resisto             1/0                      1,193
+        
+1507                resolvéis           1/0                      1,193
+        
+1508                resplandor          1/0                      1,193
+        
+1509                responded           1/0                      1,193
+        
+1510                responderle         1/0                      1,193
+        
+1511                responderos         1/0                      1,193
+        
+1512                responderte         1/0                      1,193
+        
+1513                responderé          1/0                      1,193
+        
+1514                respondiéndole      1/0                      1,193
+        
+1515                respondiéndome      1/0                      1,193
+        
+1516                restado             1/0                      1,193
+        
+1517                retiraos            1/0                      1,193
+        
+1518                retiró              1/0                      1,193
+        
+1519                retratos            1/0                      1,193
+        
+1520                revés               1/0                      1,193
+        
+1521                reñir               1/0                      1,193
+        
+1522                rica                1/0                      1,193
+        
+1523                riyendo             1/0                      1,193
+        
+1524                riñendo             1/0                      1,193
+        
+1525                robarle             1/0                      1,193
+        
+1526                rogase              1/0                      1,193
+        
+1527                roguéis             1/0                      1,193
+        
+1528                ropas               1/0                      1,193
+        
+1529                rosa                1/0                      1,193
+        
+1530                rosicler            1/0                      1,193
+        
+1531                río                 1/0                      1,193
+        
+1532                sabed               1/0                      1,193
+        
+1533                saben               1/0                      1,193
+        
+1534                saberle             1/0                      1,193
+        
+1535                saberse             1/0                      1,193
+        
+1536                sabio               1/0                      1,193
+        
+1537                sabraslo            1/0                      1,193
+        
+1538                sabréis             1/0                      1,193
+        
+1539                sacadme             1/0                      1,193
+        
+1540                sacamuelas          1/0                      1,193
+        
+1541                sacas               1/0                      1,193
+        
+1542                sagrado             1/0                      1,193
+        
+1543                sala                1/0                      1,193
+        
+1544                salen               1/0                      1,193
+        
+1545                salgo               1/0                      1,193
+        
+1546                saliere             1/0                      1,193
+        
+1547                salud               1/0                      1,193
+        
+1548                salvo               1/0                      1,193
+        
+1549                sanea               1/0                      1,193
+        
+1550                saneará             1/0                      1,193
+        
+1551                sangrienta          1/0                      1,193
+        
+1552                sangriento          1/0                      1,193
+        
+1553                satisfacedla        1/0                      1,193
+        
+1554                satisfacerle        1/0                      1,193
+        
+1555                satisfaceros        1/0                      1,193
+        
+1556                satisfaga           1/0                      1,193
+        
+1557                secretario          1/0                      1,193
+        
+1558                sed                 1/0                      1,193
+        
+1559                seda                1/0                      1,193
+        
+1560                seguras             1/0                      1,193
+        
+1561                seguía              1/0                      1,193
+        
+1562                semblante           1/0                      1,193
+        
+1563                sentaos             1/0                      1,193
+        
+1564                sentidas            1/0                      1,193
+        
+1565                sentí               1/0                      1,193
+        
+1566                sentía              1/0                      1,193
+        
+1567                servida             1/0                      1,193
+        
+1568                servirme            1/0                      1,193
+        
+1569                serás               1/0                      1,193
+        
+1570                seáis               1/0                      1,193
+        
+1571                sientes             1/0                      1,193
+        
+1572                siglos              1/0                      1,193
+        
+1573                siguen              1/0                      1,193
+        
+1574                siguieras           1/0                      1,193
+        
+1575                silogismo           1/0                      1,193
+        
+1576                silva               1/0                      1,193
+        
+1577                sirviese            1/0                      1,193
+        
+1578                sobradamente        1/0                      1,193
+        
+1579                sobresalta          1/0                      1,193
+        
+1580                sobresaltos         1/0                      1,193
+        
+1581                sobrescrito         1/0                      1,193
+        
+1582                sofisterías         1/0                      1,193
+        
+1583                soledades           1/0                      1,193
+        
+1584                solicita            1/0                      1,193
+        
+1585                solicito            1/0                      1,193
+        
+1586                sosiegue            1/0                      1,193
+        
+1587                sospeché            1/0                      1,193
+        
+1588                suave               1/0                      1,193
+        
+1589                suceden             1/0                      1,193
+        
+1590                sueltes             1/0                      1,193
+        
+1591                sueño               1/0                      1,193
+        
+1592                sufra               1/0                      1,193
+        
+1593                sufriendo           1/0                      1,193
+        
+1594                sufrirle            1/0                      1,193
+        
+1595                sufrí               1/0                      1,193
+        
+1596                sujeta              1/0                      1,193
+        
+1597                supieses            1/0                      1,193
+        
+1598                supiérades          1/0                      1,193
+        
+1599                supuesta            1/0                      1,193
+        
+1600                surcar              1/0                      1,193
+        
+1601                sustos              1/0                      1,193
+        
+1602                tabla               1/0                      1,193
+        
+1603                tapada              1/0                      1,193
+        
+1604                tapadas             1/0                      1,193
+        
+1605                tapado              1/0                      1,193
+        
+1606                tardes              1/0                      1,193
+        
+1607                teatro              1/0                      1,193
+        
+1608                teme                1/0                      1,193
+        
+1609                temerosamente       1/0                      1,193
+        
+1610                temprano            1/0                      1,193
+        
+1611                temáis              1/0                      1,193
+        
+1612                ten                 1/0                      1,193
+        
+1613                tenacillas          1/0                      1,193
+        
+1614                tendremos           1/0                      1,193
+        
+1615                tendrá              1/0                      1,193
+        
+1616                tendré              1/0                      1,193
+        
+1617                tendría             1/0                      1,193
+        
+1618                tened               1/0                      1,193
+        
+1619                tenerla             1/0                      1,193
+        
+1620                teneros             1/0                      1,193
+        
+1621                tengáis             1/0                      1,193
+        
+1622                teniéndome          1/0                      1,193
+        
+1623                tenme               1/0                      1,193
+        
+1624                tenían              1/0                      1,193
+        
+1625                tercera             1/0                      1,193
+        
+1626                terceros            1/0                      1,193
+        
+1627                tercio              1/0                      1,193
+        
+1628                terrero             1/0                      1,193
+        
+1629                tiemble             1/0                      1,193
+        
+1630                tienden             1/0                      1,193
+        
+1631                tiniebla            1/0                      1,193
+        
+1632                tiranizarme         1/0                      1,193
+        
+1633                tocas               1/0                      1,193
+        
+1634                tomara              1/0                      1,193
+        
+1635                tomarle             1/0                      1,193
+        
+1636                tomaré              1/0                      1,193
+        
+1637                tomasteis           1/0                      1,193
+        
+1638                tome                1/0                      1,193
+        
+1639                tonos               1/0                      1,193
+        
+1640                topa                1/0                      1,193
+        
+1641                topamos             1/0                      1,193
+        
+1642                toque               1/0                      1,193
+        
+1643                torpes              1/0                      1,193
+        
+1644                trabajaron          1/0                      1,193
+        
+1645                traedme             1/0                      1,193
+        
+1646                traeréis            1/0                      1,193
+        
+1647                traigan             1/0                      1,193
+        
+1648                tramoyeras          1/0                      1,193
+        
+1649                tratado             1/0                      1,193
+        
+1650                tratara             1/0                      1,193
+        
+1651                travesura           1/0                      1,193
+        
+1652                traéis              1/0                      1,193
+        
+1653                trocada             1/0                      1,193
+        
+1654                trofeo              1/0                      1,193
+        
+1655                tropiece            1/0                      1,193
+        
+1656                tropiezo            1/0                      1,193
+        
+1657                troqué              1/0                      1,193
+        
+1658                truje               1/0                      1,193
+        
+1659                trujeron            1/0                      1,193
+        
+1660                trujese             1/0                      1,193
+        
+1661                trémula             1/0                      1,193
+        
+1662                tumba               1/0                      1,193
+        
+1663                turbo               1/0                      1,193
+        
+1664                tuviese             1/0                      1,193
+        
+1665                tuvisteis           1/0                      1,193
+        
+1666                término             1/0                      1,193
+        
+1667                umbral              1/0                      1,193
+        
+1668                vale                1/0                      1,193
+        
+1669                valer               1/0                      1,193
+        
+1670                valerse             1/0                      1,193
+        
+1671                valgas              1/0                      1,193
+        
+1672                valgo               1/0                      1,193
+        
+1673                valiente-           1/0                      1,193
+        
+1674                valió               1/0                      1,193
+        
+1675                vame                1/0                      1,193
+        
+1676                vanos               1/0                      1,193
+        
+1677                vedme               1/0                      1,193
+        
+1678                vello               1/0                      1,193
+        
+1679                veloces             1/0                      1,193
+        
+1680                vencerle            1/0                      1,193
+        
+1681                vencida             1/0                      1,193
+        
+1682                vendido             1/0                      1,193
+        
+1683                vendréis            1/0                      1,193
+        
+1684                venidme             1/0                      1,193
+        
+1685                ventana             1/0                      1,193
+        
+1686                ventanas            1/0                      1,193
+        
+1687                vente               1/0                      1,193
+        
+1688                ventura             1/0                      1,193
+        
+1689                verdadero           1/0                      1,193
+        
+1690                verde               1/0                      1,193
+        
+1691                veremos             1/0                      1,193
+        
+1692                verse               1/0                      1,193
+        
+1693                veréis              1/0                      1,193
+        
+1694                veríamos            1/0                      1,193
+        
+1695                vestidos            1/0                      1,193
+        
+1696                vestime             1/0                      1,193
+        
+1697                veáis               1/0                      1,193
+        
+1698                vienen              1/0                      1,193
+        
+1699                vieran              1/0                      1,193
+        
+1700                viese               1/0                      1,193
+        
+1701                viles               1/0                      1,193
+        
+1702                vinieras            1/0                      1,193
+        
+1703                vinieron            1/0                      1,193
+        
+1704                violadas            1/0                      1,193
+        
+1705                violenta            1/0                      1,193
+        
+1706                virtud              1/0                      1,193
+        
+1707                vivido              1/0                      1,193
+        
+1708                viéndole            1/0                      1,193
+        
+1709                viéndote            1/0                      1,193
+        
+1710                volando             1/0                      1,193
+        
+1711                volcanes            1/0                      1,193
+        
+1712                volcán              1/0                      1,193
+        
+1713                voluntaria          1/0                      1,193
+        
+1714                volvernos           1/0                      1,193
+        
+1715                volveréis           1/0                      1,193
+        
+1716                volváis             1/0                      1,193
+        
+1717                volví               1/0                      1,193
+        
+1718                vosotros            1/0                      1,193
+        
+1719                vuelta              1/0                      1,193
+        
+1720                vuelvan             1/0                      1,193
+        
+1721                vuelven             1/0                      1,193
+        
+1722                vuexcelencia        1/0                      1,193
+        
+1723                vuélveme            1/0                      1,193
+        
+1724                vía                 1/0                      1,193
+        
+1725                víbora              1/0                      1,193
+        
+1726                yerro               1/0                      1,193
+        
+1727                yo–                 1/0                      1,193
+        
+1728                zozobrada           1/0                      1,193
+        
+1729                ángel               1/0                      1,193
+        
+1730                última              1/0                      1,193
+        
+1731                último              1/0                      1,193
+        
+1732                –no                 1/0                      1,193
+        
+1733                –pues               1/0                      1,193
+        
+1734                –que                1/0                      1,193
+        
+1735                –según              1/0                      1,193
+        
+1736                –vea                1/0                      1,193
+        
+1737                “a                  1/0                      1,193
+        
+1738                …con                1/0                      1,193
+        
+1739                …dos                1/0                      1,193
+        
+1740                …nada               1/0                      1,193
+        
+1741                …no                 1/0                      1,193
+        
+1742                mía                 14/7                     1,168
+        
+1743                mío                 9/4                      1,088
+        
+1744                secreto             9/4                      1,088
+        
+1745                le                  67/45                    1,023
+        
+1746                conmigo             15/8                     0,975
+        
+1747                criado              7/3                      0,933
+        
+1748                cuánto              7/3                      0,933
+        
+1749                diré                7/3                      0,933
+        
+1750                eres                7/3                      0,933
+        
+1751                esperanza           7/3                      0,933
+        
+1752                pasar               7/3                      0,933
+        
+1753                salir               7/3                      0,933
+        
+1754                tarde               7/3                      0,933
+        
+1755                tienes              7/3                      0,933
+        
+1756                vano                7/3                      0,933
+        
+1757                cómo                35/22                    0,930
+        
+1758                hay                 29/18                    0,842
+        
+1759                donde               19/11                    0,838
+        
+1760                culpa               10/5                     0,834
+        
+1761                desdicha            10/5                     0,834
+        
+1762                todas               10/5                     0,834
+        
+1763                verme               10/5                     0,834
+        
+1764                fuerza              16/9                     0,817
+        
+1765                viene               13/7                     0,811
+        
+1766                des                 5/2                      0,789
+        
+1767                dueño               5/2                      0,789
+        
+1768                fío                 5/2                      0,789
+        
+1769                habido              5/2                      0,789
+        
+1770                igual               5/2                      0,789
+        
+1771                infelice            5/2                      0,789
+        
+1772                llanto              5/2                      0,789
+        
+1773                muchas              5/2                      0,789
+        
+1774                muero               5/2                      0,789
+        
+1775                muerta              5/2                      0,789
+        
+1776                pudo                5/2                      0,789
+        
+1777                venir               5/2                      0,789
+        
+1778                veros               5/2                      0,789
+        
+1779                vuelva              5/2                      0,789
+        
+1780                vuelve              5/2                      0,789
+        
+1781                abre                3/1                      0,680
+        
+1782                alba                3/1                      0,680
+        
+1783                algo                3/1                      0,680
+        
+1784                callado             3/1                      0,680
+        
+1785                conocida            3/1                      0,680
+        
+1786                conozco             3/1                      0,680
+        
+1787                cuerda              3/1                      0,680
+        
+1788                dadme               3/1                      0,680
+        
+1789                darle               3/1                      0,680
+        
+1790                das                 3/1                      0,680
+        
+1791                decís               3/1                      0,680
+        
+1792                desdichado          3/1                      0,680
+        
+1793                dificultad          3/1                      0,680
+        
+1794                divierte            3/1                      0,680
+        
+1795                dudas               3/1                      0,680
+        
+1796                dura                3/1                      0,680
+        
+1797                déjame              3/1                      0,680
+        
+1798                días                3/1                      0,680
+        
+1799                envidia             3/1                      0,680
+        
+1800                espada              3/1                      0,680
+        
+1801                fueron              3/1                      0,680
+        
+1802                haberme             3/1                      0,680
+        
+1803                hablado             3/1                      0,680
+        
+1804                hablarte            3/1                      0,680
+        
+1805                haga                3/1                      0,680
+        
+1806                hermoso             3/1                      0,680
+        
+1807                inclinación         3/1                      0,680
+        
+1808                inconveniente       3/1                      0,680
+        
+1809                infiero             3/1                      0,680
+        
+1810                iré                 3/1                      0,680
+        
+1811                jamás               3/1                      0,680
+        
+1812                lado                3/1                      0,680
+        
+1813                llaman              3/1                      0,680
+        
+1814                llegado             3/1                      0,680
+        
+1815                llegan              3/1                      0,680
+        
+1816                llegar              3/1                      0,680
+        
+1817                llego               3/1                      0,680
+        
+1818                loco                3/1                      0,680
+        
+1819                merece              3/1                      0,680
+        
+1820                miente              3/1                      0,680
+        
+1821                muriendo            3/1                      0,680
+        
+1822                míos                3/1                      0,680
+        
+1823                ninguna             3/1                      0,680
+        
+1824                obediencia          3/1                      0,680
+        
+1825                ofendido            3/1                      0,680
+        
+1826                olvido              3/1                      0,680
+        
+1827                oye                 3/1                      0,680
+        
+1828                pase                3/1                      0,680
+        
+1829                paz                 3/1                      0,680
+        
+1830                pensamiento         3/1                      0,680
+        
+1831                podido              3/1                      0,680
+        
+1832                podéis              3/1                      0,680
+        
+1833                pregunta            3/1                      0,680
+        
+1834                pretende            3/1                      0,680
+        
+1835                provecho            3/1                      0,680
+        
+1836                quieras             3/1                      0,680
+        
+1837                rendida             3/1                      0,680
+        
+1838                retiro              3/1                      0,680
+        
+1839                salió               3/1                      0,680
+        
+1840                seguro              3/1                      0,680
+        
+1841                según               3/1                      0,680
+        
+1842                sentimientos        3/1                      0,680
+        
+1843                sigáis              3/1                      0,680
+        
+1844                toca                3/1                      0,680
+        
+1845                turbado             3/1                      0,680
+        
+1846                vaya                3/1                      0,680
+        
+1847                venís               3/1                      0,680
+        
+1848                verás               3/1                      0,680
+        
+1849                ellos               8/4                      0,667
+        
+1850                hecho               8/4                      0,667
+        
+1851                misma               11/6                     0,649
+        
+1852                también             18/11                    0,579
+        
+1853                cielo               15/9                     0,541
+        
+1854                parte               12/7                     0,508
+        
+1855                entiendo            6/3                      0,500
+        
+1856                halla               6/3                      0,500
+        
+1857                mientras            6/3                      0,500
+        
+1858                toma                6/3                      0,500
+        
+1859                sabe                9/5                      0,488
+        
+1860                sepa                9/5                      0,488
+        
+1861                solo                32/22                    0,383
+        
+1862                puedo               17/11                    0,362
+        
+1863                dar                 10/6                     0,360
+        
+1864                mano                10/6                     0,360
+        
+1865                puerta              10/6                     0,360
+        
+1866                todos               10/6                     0,360
+        
+1867                argumento           4/2                      0,334
+        
+1868                atento              4/2                      0,334
+        
+1869                dicen               4/2                      0,334
+        
+1870                discurso            4/2                      0,334
+        
+1871                entró               4/2                      0,334
+        
+1872                esas                4/2                      0,334
+        
+1873                estrellas           4/2                      0,334
+        
+1874                libertad            4/2                      0,334
+        
+1875                muerto              4/2                      0,334
+        
+1876                nombre              4/2                      0,334
+        
+1877                pendencia           4/2                      0,334
+        
+1878                queréis             4/2                      0,334
+        
+1879                quiera              4/2                      0,334
+        
+1880                quiso               4/2                      0,334
+        
+1881                unas                4/2                      0,334
+        
+1882                valedme             4/2                      0,334
+        
+1883                valga               4/2                      0,334
+        
+1884                venganza            4/2                      0,334
+        
+1885                veo                 4/2                      0,334
+        
+1886                verte               4/2                      0,334
+        
+1887                vivir               4/2                      0,334
+        
+1888                conocido            7/4                      0,331
+        
+1889                cruel               7/4                      0,331
+        
+1890                dicha               7/4                      0,331
+        
+1891                finezas             7/4                      0,331
+        
+1892                hace                7/4                      0,331
+        
+1893                posible             7/4                      0,331
+        
+1894                valor               7/4                      0,331
+        
+1895                ve                  7/4                      0,331
+        
+1896                más                 81/60                    0,319
+        
+1897                al                  59/43                    0,315
+        
+1898                caballero           14/9                     0,314
+        
+1899                de                  550/434                  0,260
+        
+1900                fácil               8/5                      0,221
+        
+1901                intento             8/5                      0,221
+        
+1902                vio                 8/5                      0,221
+        
+1903                cuidado             24/17                    0,198
+        
+1904                esa                 12/8                     0,197
+        
+1905                voces               12/8                     0,197
+        
+1906                atrevido            5/3                      0,180
+        
+1907                entrar              5/3                      0,180
+        
+1908                hermosa             5/3                      0,180
+        
+1909                quedo               5/3                      0,180
+        
+1910                ruido               5/3                      0,180
+        
+1911                suya                5/3                      0,180
+        
+1912                casa                29/21                    0,172
+        
+1913                accidente           2/1                      0,167
+        
+1914                alas                2/1                      0,167
+        
+1915                avisa               2/1                      0,167
+        
+1916                belleza             2/1                      0,167
+        
+1917                buen                2/1                      0,167
+        
+1918                busca               2/1                      0,167
+        
+1919                castigar            2/1                      0,167
+        
+1920                celoso              2/1                      0,167
+        
+1921                cortés              2/1                      0,167
+        
+1922                cólera              2/1                      0,167
+        
+1923                daros               2/1                      0,167
+        
+1924                debiera             2/1                      0,167
+        
+1925                decidme             2/1                      0,167
+        
+1926                declarar            2/1                      0,167
+        
+1927                descuido            2/1                      0,167
+        
+1928                deshecha            2/1                      0,167
+        
+1929                detengas            2/1                      0,167
+        
+1930                determinada         2/1                      0,167
+        
+1931                dichas              2/1                      0,167
+        
+1932                diremos             2/1                      0,167
+        
+1933                divinos             2/1                      0,167
+        
+1934                duelo               2/1                      0,167
+        
+1935                entonces            2/1                      0,167
+        
+1936                espacio             2/1                      0,167
+        
+1937                estéis              2/1                      0,167
+        
+1938                extremos            2/1                      0,167
+        
+1939                fiar                2/1                      0,167
+        
+1940                grave               2/1                      0,167
+        
+1941                habla               2/1                      0,167
+        
+1942                haces               2/1                      0,167
+        
+1943                hagáis              2/1                      0,167
+        
+1944                hallarme            2/1                      0,167
+        
+1945                idos                2/1                      0,167
+        
+1946                ignora              2/1                      0,167
+        
+1947                ignorada            2/1                      0,167
+        
+1948                imaginado           2/1                      0,167
+        
+1949                intenta             2/1                      0,167
+        
+1950                les                 2/1                      0,167
+        
+1951                marido              2/1                      0,167
+        
+1952                merezca             2/1                      0,167
+        
+1953                modos               2/1                      0,167
+        
+1954                niega               2/1                      0,167
+        
+1955                obedecer            2/1                      0,167
+        
+1956                oculta              2/1                      0,167
+        
+1957                ofensas             2/1                      0,167
+        
+1958                oído                2/1                      0,167
+        
+1959                pienso              2/1                      0,167
+        
+1960                podrás              2/1                      0,167
+        
+1961                podréis             2/1                      0,167
+        
+1962                preguntar           2/1                      0,167
+        
+1963                pregunto            2/1                      0,167
+        
+1964                primer              2/1                      0,167
+        
+1965                queja               2/1                      0,167
+        
+1966                quejosa             2/1                      0,167
+        
+1967                quitar              2/1                      0,167
+        
+1968                rato                2/1                      0,167
+        
+1969                resta               2/1                      0,167
+        
+1970                sabré               2/1                      0,167
+        
+1971                servís              2/1                      0,167
+        
+1972                serán               2/1                      0,167
+        
+1973                sería               2/1                      0,167
+        
+1974                siente              2/1                      0,167
+        
+1975                siquiera            2/1                      0,167
+        
+1976                sucede              2/1                      0,167
+        
+1977                susto               2/1                      0,167
+        
+1978                traer               2/1                      0,167
+        
+1979                tuviera             2/1                      0,167
+        
+1980                valiente            2/1                      0,167
+        
+1981                vana                2/1                      0,167
+        
+1982                verla               2/1                      0,167
+        
+1983                victoria            2/1                      0,167
+        
+1984                después             9/6                      0,148
+        
+1985                va                  9/6                      0,148
+        
+1986                voz                 9/6                      0,148
+        
+1987                di                  14/10                    0,103
+        
+1988                siempre             14/10                    0,103
+        
+1989                vuestro             14/10                    0,103
+        
+1990                fuese               6/4                      0,098
+        
+1991                menester            6/4                      0,098
+        
+1992                modo                6/4                      0,098
+        
+1993                parece              6/4                      0,098
+        
+1994                sola                6/4                      0,098
+        
+1995                traición            6/4                      0,098
+        
+1996                vuestras            6/4                      0,098
+        
+1997                allá                10/7                     0,097
+        
+1998                dicho               10/7                     0,097
+        
+1999                estas               10/7                     0,097
+        
+2000                mismo               10/7                     0,097
+        
+2001                quiero              23/17                    0,095
+        
+2002                yo                  147/116                  0,069
+        
+2003                allí                7/5                      0,051
+        
+2004                decoro              7/5                      0,051
+        
+2005                estando             7/5                      0,051
+        
+2006                tantas              7/5                      0,051
+        
+2007                verle               7/5                      0,051
+        
+2008                adonde              3/2                      0,049
+        
+2009                amiga               3/2                      0,049
+        
+2010                aquella             3/2                      0,049
+        
+2011                cada                3/2                      0,049
+        
+2012                confusión           3/2                      0,049
+        
+2013                contenta            3/2                      0,049
+        
+2014                cuya                3/2                      0,049
+        
+2015                decirlo             3/2                      0,049
+        
+2016                dirá                3/2                      0,049
+        
+2017                error               3/2                      0,049
+        
+2018                escucha             3/2                      0,049
+        
+2019                fuerte              3/2                      0,049
+        
+2020                hacéis              3/2                      0,049
+        
+2021                hallar              3/2                      0,049
+        
+2022                hiciera             3/2                      0,049
+        
+2023                instante            3/2                      0,049
+        
+2024                lance               3/2                      0,049
+        
+2025                letra               3/2                      0,049
+        
+2026                mandas              3/2                      0,049
+        
+2027                mentira             3/2                      0,049
+        
+2028                osado               3/2                      0,049
+        
+2029                parque              3/2                      0,049
+        
+2030                pierda              3/2                      0,049
+        
+2031                poder               3/2                      0,049
+        
+2032                punto               3/2                      0,049
+        
+2033                retirada            3/2                      0,049
+        
+2034                sacó                3/2                      0,049
+        
+2035                sepas               3/2                      0,049
+        
+2036                suyo                3/2                      0,049
+        
+2037                temer               3/2                      0,049
+        
+2038                tras                3/2                      0,049
+        
+2039                turbada             3/2                      0,049
+        
+2040                tuvo                3/2                      0,049
+        
+2041                vienes              3/2                      0,049
+        
+2042                qué                 152/121                  0,039
+        
+2043                me                  178/142                  0,037
+        
+2044                ay                  41/32                    0,034
+        
+2045                dice                8/6                      0,024
+        
+2046                nunca               8/6                      0,024
+        
+2047                que                 853/690                  0,024
+        
+2048                su                  88/70                    0,024
+        
+2049                tener               8/6                      0,024
+        
+2050                aún                 13/10                    0,019
+        
+2051                señor               23/18                    0,017
+        
+2052                acción              4/3                      0,012
+        
+2053                amar                4/3                      0,012
+        
+2054                ciega               4/3                      0,012
+        
+2055                dejes               4/3                      0,012
+        
+2056                esperar             4/3                      0,012
+        
+2057                estás               4/3                      0,012
+        
+2058                fe                  4/3                      0,012
+        
+2059                hablando            4/3                      0,012
+        
+2060                pasa                4/3                      0,012
+        
+2061                principio           4/3                      0,012
+        
+2062                seré                4/3                      0,012
+        
+2063                siento              4/3                      0,012
+        
+2064                vive                4/3                      0,012
+        
+2065                volver              4/3                      0,012
+        
+2066                basta               9/7                      0,009
+        
+2067                gusto               9/7                      0,009
+        
+2068                manera              9/7                      0,009
+        
+2069                será                19/15                    0,009
+        
+2070                sino                14/11                    0,008
+        
+2071                desde               10/8                     0,002
+        
+2072                mayor               10/8                     0,002
+        
+2073                mí                  68/55                    0,002
+        
+2074                albedrío            5/4                      0,001
+        
+2075                calle               5/4                      0,001
+        
+2076                cosas               5/4                      0,001
+        
+2077                ellas               5/4                      0,001
+        
+2078                esposo              5/4                      0,001
+        
+2079                falta               5/4                      0,001
+        
+2080                llama               5/4                      0,001
+        
+2081                pido                5/4                      0,001
+        
+2082                tenga               5/4                      0,001
+        
+2083                ves                 5/4                      0,001
+        
