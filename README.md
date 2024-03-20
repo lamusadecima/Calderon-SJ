@@ -13,6 +13,8 @@ El corpus de obras de Sor Juana se ha obtenido de distintas fuentes:
 
 ## Referencias:
 
+Bia, A., & Pedreño, A. (2001). The Miguel de Cervantes Digital Library: The Hispanic Voice on the Web. <i>Digital Scholarship in the Humanities</i>, 16(1), 161-177.
+
 Fischer, F., Börner, I., Göbel, M., Hechtl, A., Kittel, C., Milling, C., & Trilcke, P. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. Proceedings of DH2019: «Complexities», Utrecht, July 9–12, 2019. https://doi.org/10.5281/zenodo.4284002
 
 Schmidhuber de la Mora, G. (2016). Hallazgo de una comedia perdida de Sor Juana: La gran comedia de la Segunda Celestina. Biblioteca Virtual Miguel de Cervantes. http://www.cervantesvirtual.com/portales/sor_juana_ines_de_la_cruz/obra/hallazgo-de-una-obra-perdida-de-sor-juana-la-gran-comedia-de-la-segunda-celestina/
