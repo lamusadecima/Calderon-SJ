@@ -9,7 +9,7 @@ El corpus de obras de Calderón ha sido extraído del Calderón Drama Corpus en 
 El corpus de obras de Sor Juana se ha obtenido de distintas fuentes:
 - El texto de <i>Los empeños de una casa</i> se ha extraído de la edición digital de la Biblioteca Virtual Miguel de Cervantes: https://www.cervantesvirtual.com/obra-visor/los-empenos-de-una-casa-0/html/.
 - El texto de <i>Amor es más laberinto</i> procede de la colección digital de la Association of Hispanical Classical Theatre (AHCT): http://www.comedias.org/sorjuana/amomla.html.
-- El texto de <i>La segunda Celestina</i> procede de la edición de Guillermo Schmidhuber y Marta Peña Doria (2016).
+- El texto de <i>La segunda Celestina</i> procede de la edición de Guillermo Schmidhuber y Marta Peña Doria (2016). http://www.cervantesvirtual.com/portales/sor_juana_ines_de_la_cruz/obra/hallazgo-de-una-obra-perdida-de-sor-juana-la-gran-comedia-de-la-segunda-celestina/
 
 ## Referencias:
 
