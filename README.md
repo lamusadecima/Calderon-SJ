@@ -18,3 +18,6 @@ Bia, A., & Pedreño, A. (2001). The Miguel de Cervantes Digital Library: The His
 Fischer, F., Börner, I., Göbel, M., Hechtl, A., Kittel, C., Milling, C., & Trilcke, P. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. Proceedings of DH2019: «Complexities», Utrecht, July 9–12, 2019. https://doi.org/10.5281/zenodo.4284002
 
 Schmidhuber de la Mora, G. (2016). Hallazgo de una comedia perdida de Sor Juana: La gran comedia de la Segunda Celestina. Biblioteca Virtual Miguel de Cervantes. http://www.cervantesvirtual.com/portales/sor_juana_ines_de_la_cruz/obra/hallazgo-de-una-obra-perdida-de-sor-juana-la-gran-comedia-de-la-segunda-celestina/
+
+## Financiación
+La preparación de esta investigación y materiales ha sido posible gracias al disfrute de una ayuda Juan de la Cierva (FJC2021-047998-I), financiada por MCIN/AEI/10.13039/501100011033 y por la Unión Europea «NextGenerationEU»/PRTR.
