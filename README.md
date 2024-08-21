@@ -1,4 +1,5 @@
 # Calderon-SJ
+[![DOI](https://zenodo.org/badge/767486113.svg)](https://zenodo.org/doi/10.5281/zenodo.13354150)
 
 Materiales complementarios de mi estudio "Estilometría y género: aproximación a los personajes teatrales de Calderón y Sor Juana Inés de la Cruz".
 
