@@ -22,3 +22,8 @@ Schmidhuber de la Mora, G. (2016). Hallazgo de una comedia perdida de Sor Juana:
 
 ## Financiación
 La preparación de esta investigación y materiales ha sido posible gracias al disfrute de una ayuda Juan de la Cierva (FJC2021-047998-I), financiada por MCIN/AEI/10.13039/501100011033 y por la Unión Europea «NextGenerationEU»/PRTR.
+
+## Cómo citar
+
+Para citar este estudio o los resultados obtenidos, puede utilizarse la siguiente línea:
+Hernández-Lorenzo, L. (2024). Estilometría y género: Aproximación a los personajes teatrales de Calderón y Sor Juana Inés de la Cruz. <i>Ínsula: revista de letras y ciencias humanas</i>, 930, 32-36.
