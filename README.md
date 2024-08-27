@@ -28,4 +28,5 @@ La preparación de esta investigación y materiales ha sido posible gracias al d
 ## Cómo citar
 
 Para citar este estudio o los resultados obtenidos, puede utilizarse la siguiente línea:
+
 Hernández-Lorenzo, L. (2024). Estilometría y género: Aproximación a los personajes teatrales de Calderón y Sor Juana Inés de la Cruz. <i>Ínsula: revista de letras y ciencias humanas</i>, 930, 32-36.
